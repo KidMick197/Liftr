@@ -1,0 +1,2696 @@
+,Workout Name,Body Part,Equipment
+1,Single-Leg Press,Quadriceps,Machine
+2,Landmine twist,Abdominals,Other
+3,Weighted pull-up,Lats,Other
+4,T-Bar Row with Handle,Middle Back,Other
+5,Atlas Stones,Lower Back,Other
+6,Clean from Blocks,Quadriceps,Barbell
+7,Incline Hammer Curls,Biceps,Dumbbell
+8,Barbell glute bridge,Glutes,Barbell
+9,Triceps dip,Triceps,Body Only
+10,Barbell Full Squat,Quadriceps,Barbell
+11,Barbell deficit deadlift,Lower Back,Barbell
+12,Barbell Deadlift,Hamstrings,Barbell
+13,Romanian Deadlift With Dumbbells,Hamstrings,Dumbbell
+14,Tire flip,Quadriceps,Other
+15,Clean Deadlift,Hamstrings,Barbell
+16,Elbow plank,Abdominals,Body Only
+17,Bottoms Up,Abdominals,Body Only
+18,Barbell back squat to box,Quadriceps,Barbell
+19,Push-press,Quadriceps,Barbell
+20,Suspended ab fall-out,Abdominals,Other
+21,Power snatch-,Quadriceps,Barbell
+22,Sumo deadlift,Hamstrings,Barbell
+23,Hang Clean,Quadriceps,Barbell
+24,Dumbbell V-Sit Cross Jab,Abdominals,Dumbbell
+25,Reverse Band Box Squat,Quadriceps,
+26,Standing cable low-to-high twist,Abdominals,Cable
+27,Decline EZ-bar skullcrusher,Triceps,E-Z Curl Bar
+28,Wide-grip barbell curl,Biceps,Barbell
+29,Dumbbell spell caster,Abdominals,Dumbbell
+30,Dumbbell floor press,Triceps,Dumbbell
+31,Pullups,Lats,Body Only
+32,Decline reverse crunch,Abdominals,Other
+33,Dumbbell Bench Press,Chest,Dumbbell
+34,Jumping rope,Quadriceps,Body Only
+35,EZ-bar spider curl,Biceps,Barbell
+36,Smith machine shrug,Traps,Machine
+37,Romanian Deadlift from Deficit,Hamstrings,Barbell
+38,Power Snatch,Hamstrings,Barbell
+39,Pushups,Chest,Body Only
+40,Barbell walking lunge,Quadriceps,Barbell
+41,Front Squats With Two Kettlebells,Quadriceps,Kettlebells
+42,Spider crawl,Abdominals,Body Only
+43,Power Clean from Blocks,Hamstrings,Barbell
+44,Single Leg Push-off,Quadriceps,Other
+45,Hip Circles (Prone),Abductors,
+46,Reverse-grip bent-over row,Middle Back,Barbell
+47,Back extension,Lower Back,Body Only
+48,Close-grip bench press,Chest,Barbell
+49,Cocoons,Abdominals,Body Only
+50,Cross-Body Crunch,Abdominals,Body Only
+51,Dumbbell Flyes,Chest,Dumbbell
+52,Hammer Curls,Biceps,Dumbbell
+53,Incline dumbbell bench press,Chest,Dumbbell
+54,Low-cable cross-over,Chest,Cable
+55,Single-arm high-cable side bend,Abdominals,Cable
+56,EZ-Bar Curl,Biceps,E-Z Curl Bar
+57,Olympic Squat,Quadriceps,Barbell
+58,Natural Glute Ham Raise,Hamstrings,Body Only
+59,Axle Deadlift,Lower Back,Other
+60,Zottman Curl,Biceps,
+61,Glute ham raise-,Hamstrings,None
+62,Leverage Shrug,Traps,Machine
+63,Cable V-bar push-down,Triceps,Cable
+64,Stair climber,Quadriceps,Machine
+65,Elbow-to-knee crunch,Abdominals,Body Only
+66,Kettlebell Pistol Squat,Quadriceps,Kettlebells
+67,Biceps curl to shoulder press,Biceps,Dumbbell
+68,Weighted bench dip,Triceps,Body Only
+69,Barbell Hip Thrust,Glutes,Barbell
+70,Forward lunge,Quadriceps,Body Only
+71,Barbell Bench Press - Medium Grip,Chest,Barbell
+72,Chest dip,Chest,Other
+73,Barbell Curl,Biceps,Barbell
+74,EZ-Bar Skullcrusher,Triceps,E-Z Curl Bar
+75,One-Arm Dumbbell Row,Middle Back,Dumbbell
+76,Concentration curl,Biceps,Dumbbell
+77,Decline Crunch,Abdominals,Body Only
+78,Decline Dumbbell Flyes,Chest,Dumbbell
+79,Hanging toes-to-bar,Abdominals,Body Only
+80,Narrow-stance squat,Quadriceps,Barbell
+81,Kneeling cable oblique crunch,Abdominals,Cable
+82,Reverse Grip Triceps Pushdown,Triceps,Cable
+83,Bear crawl sled drag,Quadriceps,Other
+84,Rocky Pull-Ups/Pulldowns,Lats,Other
+85,Box Squat with Bands,Quadriceps,Barbell
+86,Flexor Incline Dumbbell Curls,Biceps,Dumbbell
+87,Thigh adductor,Adductors,Machine
+88,Machine Bicep Curl,Biceps,Machine
+89,Hanging Oblique Knee Raise,Abdominals,Body Only
+90,Bodyweight Flyes,Chest,E-Z Curl Bar
+91,Push-Ups - Close Triceps Position,Triceps,Body Only
+92,One-Arm Long Bar Row,Middle Back,Barbell
+93,Overhead cable curl,Biceps,Cable
+94,Incline cable chest fly,Chest,Cable
+95,Single-leg depth squat,Quadriceps,Bands
+96,Dumbbell suitcase crunch,Abdominals,Medicine Ball
+97,Plate Twist,Abdominals,Other
+98,Single-leg cable hip extension,Glutes,Cable
+99,Weighted Jump Squat,Quadriceps,Barbell
+100,Squat with Chains,Quadriceps,Barbell
+101,Gorilla Chin/Crunch,Abdominals,Body Only
+102,Kneeling cable triceps extension,Triceps,Cable
+103,Kneeling Cable Crunch With Alternating Oblique Twists,Abdominals,Cables
+104,Bicycling,Quadriceps,Other
+105,Weighted Crunches,Abdominals,Other
+106,Single-arm cable triceps extension,Triceps,Cable
+107,Barbell roll-out,Abdominals,Barbell
+108,Kneeling cable crunch,Abdominals,Cable
+109,Exercise Ball Pull-In,Abdominals,Exercise Ball
+110,Hanging leg raise,Abdominals,Body Only
+111,Barbell Ab Rollout - On Knees,Abdominals,Barbell
+112,Barbell Squat,Quadriceps,Barbell
+113,Decline barbell bench press,Chest,Barbell
+114,Dumbbell Bicep Curl,Biceps,Dumbbell
+115,Dumbbell Goblet Squat,Quadriceps,Dumbbell
+116,Dumbbell squat,Quadriceps,Dumbbell
+117,Barbell front squat,Quadriceps,Barbell
+118,Close-grip pull-down,Lats,Cable
+119,Triceps Pushdown - Rope Attachment,Triceps,Cables
+120,Side-to-side box skip,Quadriceps,Body Only
+121,Seated triceps press,Triceps,Dumbbell
+122,Pull-up,Lats,Body Only
+123,Wide-grip bench press,Chest,Barbell
+124,Close-grip EZ-bar curl,Biceps,Barbell
+125,T-Bar Row,Middle Back,Other
+126,Bent Over Two-Arm Long Bar Row,Middle Back,Barbell
+127,Muscle Up,Lats,Body Only
+128,Incline EZ-bar skullcrusher,Triceps,Barbell
+129,Alternating sit-through with crunch,Middle Back,Other
+130,Wide-Grip Decline Barbell Bench Press,Chest,Barbell
+131,Rower,Middle Back,Machine
+132,Snatch Deadlift,Hamstrings,Barbell
+133,Decline Close-Grip Bench To Skull Crusher,Triceps,Barbell
+134,Lying Leg Curls,Hamstrings,Machine
+135,Cross-body hammer curl,Biceps,Dumbbell
+136,Shotgun row,Lats,Cable
+137,Ab Roller,Abdominals,Other
+138,Reverse-grip incline dumbbell bench press,Chest,Dumbbell
+139,Leg Press,Quadriceps,Machine
+140,Stiff-Legged Dumbbell Deadlift,Hamstrings,Dumbbell
+141,Cable Crossover,Chest,Cable
+142,Barbell Incline Bench Press Medium-Grip,Chest,Barbell
+143,Incline Dumbbell Flyes,Chest,Dumbbell
+144,Seated Cable Rows,Middle Back,Cable
+145,Tricep Dumbbell Kickback,Triceps,Dumbbell
+146,Otis-Up,Abdominals,Other
+147,Mountain climber,Abdominals,Body Only
+148,Ab bicycle,Abdominals,Body Only
+149,Barbell forward lunge,Quadriceps,Barbell
+150,3/4 sit-up,Abdominals,Body Only
+151,Exercise ball leg curl,Hamstrings,Exercise Ball
+152,Glute bridge,Glutes,Body Only
+153,Close-Grip Front Lat Pulldown,Lats,Cable
+154,Dip Machine,Triceps,Cable
+155,Incline dumbbell row,Middle Back,Dumbbell
+156,Dumbbell Lunges,Quadriceps,Dumbbell
+157,Preacher Curl,Biceps,Barbell
+158,Reverse crunch,Abdominals,Body Only
+159,Standing Dumbbell Triceps Extension,Triceps,Dumbbell
+160,Elliptical trainer,Quadriceps,Machine
+161,Bodyweight squat,Quadriceps,Body Only
+162,Bent Over Two-Dumbbell Row With Palms In,Middle Back,Dumbbell
+163,Hex-bar deadlift,Quadriceps,Other
+164,Narrow-stance leg press,Quadriceps,Machine
+165,Single-leg glute bridge,Glutes,Body Only
+166,Barbell Curls Lying Against An Incline,Biceps,Barbell
+167,Standing Hip Circles,Abductors,Body Only
+168,Clam,Abductors,
+169,Narrow Stance Hack Squats,Quadriceps,Machine
+170,Seated Close-Grip Concentration Barbell Curl,Biceps,Barbell
+171,Smith machine box squat,Quadriceps,Barbell
+172,Drop Push,Chest,Other
+173,Upside-down pull-up,Middle Back,Other
+174,Reverse Barbell Preacher Curls,Biceps,E-Z Curl Bar
+175,Close-grip EZ-bar bench press,Chest,E-Z Curl Bar
+176,Incline Push-Up,Chest,Body Only
+177,Hyperextensions With No Hyperextension Bench,Lower Back,Body Only
+178,Parallel Bar Dip,Triceps,Body Only
+179,Stairmaster,Quadriceps,Machine
+180,Double Leg Butt Kick,Quadriceps,
+181,Groiners,Adductors,Body Only
+182,Neck Press,Chest,Barbell
+183,Broad jump,Quadriceps,Body Only
+184,Machine Squat,Quadriceps,Machine
+185,V-bar pull-up,Lats,
+186,Ring dip,Triceps,Body Only
+187,Standing One-Arm Cable Curl,Biceps,Cable
+188,Burpee,Quadriceps,Body Only
+189,Double-arm triceps kick-back,Triceps,Dumbbell
+190,Dumbbell reverse lunge,Quadriceps,Dumbbell
+191,Standing dumbbell shrug,Traps,Dumbbell
+192,Barbell step-up,Quadriceps,Barbell
+193,Feet-elevated bench dip,Triceps,Body Only
+194,Bent Over Barbell Row,Middle Back,Barbell
+195,Crunches,Abdominals,Body Only
+196,Dumbbell Alternate Bicep Curl,Biceps,Dumbbell
+197,Single-arm dumbbell preacher curl,Biceps,Dumbbell
+198,Step-up with knee raise,Glutes,Body Only
+199,Smith machine back squat,Quadriceps,Machine
+200,Alternate Incline Dumbbell Curl,Biceps,Dumbbell
+201,Standing dumbbell upright row,Traps,Dumbbell
+202,Incline cable chest press,Chest,Cable
+203,Rope climb,Lats,Body Only
+204,Trail Running/Walking,Quadriceps,Body Only
+205,Neutral-grip dumbbell bench press,Chest,Dumbbell
+206,Cable Chest Press,Chest,Cable
+207,Standing concentration curl,Biceps,Dumbbell
+208,Wide-Grip Rear Pull-Up,Lats,Body Only
+209,Kettlebell pass-through lunge,Hamstrings,Kettlebells
+210,Hands-elevated push-up,Chest,Body Only
+211,Deadlift with Bands,Lower Back,Barbell
+212,Straight-arm rope pull-down,Lats,Cable
+213,Power clean,Hamstrings,Barbell
+214,Hang Snatch,Hamstrings,Barbell
+215,Kettlebell sumo deadlift high pull,Traps,Kettlebells
+216,Calf-Machine Shoulder Shrug,Traps,Machine
+217,Bench Press - Powerlifting,Triceps,Barbell
+218,Goblet Squat,Quadriceps,Kettlebells
+219,Behind-the-head skullcrusher,Triceps,Barbell
+220,Reverse Cable Curl,Biceps,Cable
+221,Dumbbell side bend,Abdominals,Dumbbell
+222,Lat pull-down,Lats,Cable
+223,Alternating incline dumbbell biceps curl,Biceps,Dumbbell
+224,Kettlebell One-Legged Deadlift,Hamstrings,Kettlebells
+225,Alternate Hammer Curl,Biceps,Dumbbell
+226,Decline Push-Up,Chest,Body Only
+227,Captain's chair knee raise,Abdominals,Other
+228,Triceps Pushdown,Triceps,Cable
+229,Low cable overhead triceps extension,Triceps,Cable
+230,Single-arm cable cross-over,Chest,Cable
+231,Seated dumbbell biceps curl,Biceps,Dumbbell
+232,Dead bug reach,Abdominals,Body Only
+233,Deadlift with Chains,Lower Back,Barbell
+234,Rope Crunch,Abdominals,Cable
+235,Kettlebell thruster,Glutes,Kettlebells
+236,Single-Arm Push-Up,Chest,Body Only
+237,Band Hip Adductions,Adductors,Bands
+238,Single-arm kettlebell clean,Hamstrings,Kettlebells
+239,Preacher Hammer Dumbbell Curl,Biceps,Dumbbell
+240,Split Squat with Dumbbells,Quadriceps,Dumbbell
+241,Standing One-Arm Dumbbell Curl Over Incline Bench,Biceps,
+242,Sledgehammer swing,Abdominals,Other
+243,Kneeling Squat,Glutes,Barbell
+244,Close-grip barbell curl,Biceps,Barbell
+245,Box jump,Hamstrings,Other
+246,Standing cable crunch,Abdominals,Cable
+247,Leverage Incline Chest Press,Chest,Machine
+248,Standing barbell overhead triceps extension,Triceps,Barbell
+249,Lying cable triceps extension,Triceps,Cable
+250,Crunch - Hands Overhead,Abdominals,Body Only
+251,Leg Extensions,Quadriceps,Machine
+252,Close push-up to wide push-up,Chest,Body Only
+253,Single-arm dumbbell triceps extension,Triceps,Dumbbell
+254,Butterfly,Chest,Machine
+255,Decline dumbbell bench press,Chest,Dumbbell
+256,V-up,Abdominals,Body Only
+257,Barbell Bulgarian split squat,Quadriceps,Barbell
+258,Reverse-grip lat pull-down,Lats,Machine
+259,Standing Biceps Cable Curl,Biceps,Cable
+260,Single-arm cable seated row,Middle Back,Cable
+261,Single-arm kettlebell row,Chest,Dumbbell
+262,Scissors Jump,Quadriceps,Body Only
+263,Wide Stance Stiff Legs,Hamstrings,Barbell
+264,Rack Pull with Bands,Lower Back,Barbell
+265,Drag curl,Biceps,Barbell
+266,Hang Clean - Below the Knees,Quadriceps,Barbell
+267,Decline oblique crunch,Abdominals,None
+268,Clean,Hamstrings,Barbell
+269,Decline bar press sit-up,Abdominals,Barbell
+270,Kettlebell alternating renegade row,Middle Back,Kettlebells
+271,Bosu Ball Cable Crunch With Side Bends,Abdominals,Cable
+272,Stomach Vacuum,Abdominals,Body Only
+273,Hammer Grip Incline DB Bench Press,Chest,Dumbbell
+274,Wide-grip hands-elevated push-up,Chest,Body Only
+275,Decline Dumbbell Triceps Extension,Triceps,Dumbbell
+276,Jumping jack-,Quadriceps,Body Only
+277,Push-Ups With Feet On An Exercise Ball,Chest,Body Only
+278,Barbell hack squat,Quadriceps,Barbell
+279,Feet-elevated push-up,Chest,Body Only
+280,Good Morning,Hamstrings,Barbell
+281,Leverage Chest Press,Chest,Machine
+282,Gironda Sternum Chins,Lats,Other
+283,Exercise ball crunch,Abdominals,Exercise Ball
+284,Glute Ham Raise,Hamstrings,Machine
+285,Russian twist,Abdominals,Body Only
+286,Seated Flat Bench Leg Pull-In,Abdominals,Weight Bench
+287,Barbell shrug,Traps,Barbell
+288,Flat Bench Lying Leg Raise,Abdominals,Body Only
+289,Hack Squat,Quadriceps,Barbell
+290,Dumbbell skullcrusher,Triceps,Dumbbell
+291,Man-maker,Middle Back,Dumbbell
+292,Pallof press,Abdominals,Other
+293,Knees tucked crunch,Abdominals,Body Only
+294,Straight-arm dumbbell pull-over,Chest,Dumbbell
+295,Arms-crossed jump squat,Quadriceps,Body Only
+296,Decline Smith Press,Chest,Machine
+297,Band Skull Crusher,Triceps,
+298,Isometric Wipers,Chest,Body Only
+299,Skating,Quadriceps,Other
+300,Cable cross-over,Chest,Cable
+301,Treadmill running,Quadriceps,Machine
+302,One Arm Pronated Dumbbell Triceps Extension,Triceps,Dumbbell
+303,Side To Side Chins,Lats,Body Only
+304,Incline Dumbbell Bench With Palms Facing In,Chest,Dumbbell
+305,Standing leg swing,Hamstrings,Body Only
+306,Clock push-up,Chest,Body Only
+307,Machine seated row,Lats,Machine
+308,Weighted sissy squat,Quadriceps,Other
+309,Jog In Place,Quadriceps,
+310,One Arm Supinated Dumbbell Triceps Extension,Triceps,Dumbbell
+311,Stationary bike,Quadriceps,Machine
+312,Dumbbell bent-over row,Middle Back,Dumbbell
+313,Barbell thruster,Quadriceps,Barbell
+314,Flutter Kicks,Glutes,Weight Bench
+315,Dumbbell sumo squat,Quadriceps,Dumbbell
+316,Superman,Lower Back,Body Only
+317,Straight-Arm Pulldown,Lats,Cable
+318,Barbell stiff-legged deadlift,Hamstrings,Barbell
+319,Standing One-Arm Dumbbell Triceps Extension,Triceps,Dumbbells
+320,Smith machine bench press,Chest,Machine
+321,Dumbbell preacher curl,Biceps,Dumbbell
+322,Front Raise And Pullover,Chest,Barbell
+323,Dumbbell seated box jump,Quadriceps,Dumbbell
+324,Middle Back Shrug,Middle Back,Dumbbell
+325,Butt-Ups,Abdominals,Body Only
+326,Band Good Morning (Pull Through),Hamstrings,Bands
+327,Bodyweight Reverse Lunge,Quadriceps,Body Only
+328,Glute Kickback,Glutes,Body Only
+329,Treadmill jogging,Quadriceps,Machine
+330,Yates Row Reverse Grip,Middle Back,Barbell
+331,Linear Acceleration Wall Drill,Hamstrings,Body Only
+332,Reverse-grip bench press,Triceps,Barbell
+333,Leverage Decline Chest Press,Chest,Machine
+334,Chain Handle Extension,Triceps,Other
+335,Bench Press with Chains,Triceps,Barbell
+336,Bench barbell roll-out,Abdominals,Barbell
+337,Incline Push-Up Depth Jump,Chest,Body Only
+338,Push-Up Wide,Chest,Body Only
+339,Exercise ball weighted hyperextension,Lower Back,Exercise Ball
+340,Barbell behind-the-back shrug,Traps,Barbell
+341,Lying Supine Dumbbell Curl,Biceps,Dumbbell
+342,Machine Preacher Curls,Biceps,Machine
+343,Single-arm kneeling lat pull-down,Lats,Cable
+344,Floor Press,Triceps,Barbell
+345,Chest Push (multiple response),Chest,Medicine Ball
+346,Feet-elevated oblique crunch,Abdominals,Body Only
+347,Elevated Cable Rows,Lats,Cable
+348,Incline Dumbbell Flyes - With A Twist,Chest,Dumbbell
+349,Cross Over - With Bands,Chest,Bands
+350,Split Jerk,Quadriceps,Barbell
+351,Cobra Triceps Extension,Triceps,
+352,Advanced Kettlebell Windmill,Abdominals,Kettlebells
+353,Rack pull,Lower Back,Barbell
+354,Dumbbell step-up,Quadriceps,Dumbbell
+355,Smith machine inverted row,Middle Back,Other
+356,Bent-arm dumbbell pull-over,Chest,Dumbbell
+357,Reverse-grip barbell curl,Biceps,Barbell
+358,Standing Cable Wood Chop,Abdominals,Cable
+359,Cable rope hammer curl,Biceps,Cable
+360,Single-leg kettlebell deadlift,Hamstrings,Kettlebells
+361,Machine chest press,Chest,Machine
+362,Supine Chest Throw,Triceps,Medicine Ball
+363,Push-jerk,Quadriceps,Barbell
+364,One-Arm Kettlebell Row,Middle Back,
+365,Mixed Grip Chin,Middle Back,Body Only
+366,Alien Squat,Quadriceps,Body Only
+367,Barbell back squat,Quadriceps,Barbell
+368,Neutral-grip pull-up,Lats,Body Only
+369,Bodyweight triceps press,Triceps,Body Only
+370,Cable reverse crunch,Abdominals,Cable
+371,Cable Hip Adduction,Quadriceps,Cable
+372,Butt Kicks,Quadriceps,Body Weight
+373,Machine-assisted pull-up,Lats,Machine
+374,Standing Cable Chest Press,Chest,Cable
+375,Lying cable biceps curl,Biceps,Cable
+376,Seated Back Extension,Lower Back,Machine
+377,Low Cable Triceps Extension,Triceps,Cable
+378,Iliotibial band SMR,Abductors,Foam Roll
+379,Pendlay Row,Middle Back,Barbell
+380,Dumbbell Clean,Hamstrings,
+381,Seated Bent-Over Two-Arm Dumbbell Triceps Extension,Triceps,Dumbbell
+382,Recumbent Bike,Quadriceps,Machine
+383,Thigh abductor,Abductors,Machine
+384,Treadmill walking,Quadriceps,Body Only
+385,Romanian Deadlift,Hamstrings,Barbell
+386,Box Jump (Multiple Response),Hamstrings,Other
+387,Bent-knee reverse crunch,Abdominals,Body Only
+388,Cable overhead triceps extension,Triceps,Cable
+389,Smith machine bent-over row,Middle Back,Machine
+390,Knee Tuck Jump,Hamstrings,Body Only
+391,Cable straight-bar upright row,Traps,Cable
+392,Seated Good Mornings,Lower Back,Barbell
+393,Close-grip dumbbell bench press,Chest,Dumbbell
+394,Zercher squat,Quadriceps,Barbell
+395,Full Range-Of-Motion Lat Pulldown,Lats,Cable
+396,Cable Russian Twists,Abdominals,Cable
+397,EZ-bar skullcrusher-,Triceps,E-Z Curl Bar
+398,Stiff Leg Barbell Good Morning,Lower Back,Barbell
+399,Standing Dumbbell Reverse Curl,Biceps,Dumbbell
+400,Lying Close-Grip Barbell Triceps Press To Chin,Triceps,E-Z Curl Bar
+401,Tate Press,Triceps,Dumbbell
+402,Ab Crunch Machine,Abdominals,Machine
+403,Alternating heel-touch,Abdominals,Body Only
+404,Wall ball toss,Quadriceps,Exercise Ball
+405,Smith Machine Incline Bench Press,Chest,Machine
+406,Fire Hydrant,Abductors,Body Only
+407,Hanging wind sprint,Abdominals,
+408,Windmills,Abductors,Body Only
+409,Bent-arm barbell pull-over,Lats,Barbell
+410,Sphinx push-up,Chest,Body Only
+411,Smith Machine Close-Grip Bench Press,Chest,Machine
+412,Palms-out incline biceps curl,Biceps,Dumbbell
+413,Rocket Jump,Quadriceps,Body Only
+414,Yoke Walk,Quadriceps,Other
+415,Romanian Deadlift with Kettlebell,Hamstrings,Kettlebells
+416,Smith machine leg press,Quadriceps,Machine
+417,Jefferson Squats,Quadriceps,Barbell
+418,Single-arm low cable triceps extension,Triceps,Cable
+419,Smith machine straight-legged hip raise,Abdominals,Machine
+420,Reverse Hyperextension,Hamstrings,Machine
+421,Jerk Dip Squat,Quadriceps,Barbell
+422,Kettlebell plyo push-up,Chest,Kettlebells
+423,Weighted Sit-Ups - With Bands,Abdominals,Other
+424,Depth jump box jump,Quadriceps,Body Only
+425,Bodyweight Walking Lunge,Quadriceps,Body Only
+426,Lying Machine Squat,Quadriceps,Machine
+427,Seated Leg Curl,Hamstrings,Machine
+428,Close-Grip EZ-Bar Curl with Band,Biceps,E-Z Curl Bar
+429,Alternating Kettlebell Row,Middle Back,Kettlebells
+430,Cable shrug,Traps,Cable
+431,Pallof press with rotation,Abdominals,Cable
+432,Lying T-Bar Row,Middle Back,Other
+433,Band Good Morning,Hamstrings,
+434,Kneeling lat pull-down,Lats,Cable
+435,Standing Bent-Over One-Arm Dumbbell Triceps Extension,Triceps,Dumbbell
+436,Overhead squat,Quadriceps,
+437,Pistol squat,Quadriceps,Body Only
+438,Single-Leg Leg Extension,Quadriceps,
+439,Leverage High Row,Middle Back,Machine
+440,Medicine ball slam,Lats,Medicine Ball
+441,Smith machine behind-the-back shrug,Traps,Machine
+442,Leg-Up Hamstring Stretch,Hamstrings,Body Only
+443,Walking High Knees,Quadriceps,Body Only
+444,Upright Row - With Bands,Traps,Bands
+445,Suspended Reverse Crunch,Abdominals,Body Only
+446,Lateral lunge,Quadriceps,Body Only
+447,Close-Hands Push-Up,Chest,Body Only
+448,Exercise ball hip thrust,Glutes,Exercise Ball
+449,Barbell side split squat,Quadriceps,Barbell
+450,Sumo Deadlift with Chains,Hamstrings,Barbell
+451,Frog Sit-Ups,Abdominals,Mat
+452,Kettlebell Windmill,Abdominals,Kettlebells
+453,Seated Leg Press,Quadriceps,Machine
+454,Straight-arm plank with biceps curl-,Biceps,Dumbbell
+455,Cable Deadlifts,Quadriceps,Cable
+456,Board bench press,Chest,Barbell
+457,Frankenstein Squat,Quadriceps,Barbell
+458,Cable Seated Crunch,Abdominals,Cable
+459,Kettlebell Figure 8,Abdominals,Kettlebells
+460,Kettlebell Curtsy Lunge,Quadriceps,Kettlebells
+461,Single Leg Butt Kick,Quadriceps,
+462,Lying bench reverse crunch,Abdominals,Body Only
+463,Side Leg Raises,Adductors,Body Only
+464,Smith machine Bulgarian split squat,Quadriceps,Machine
+465,Barbell speed squat,Quadriceps,Barbell
+466,Suspended row,Middle Back,Other
+467,Incline Bench Pull,Middle Back,Barbell
+468,Around The Worlds,Chest,Dumbbells
+469,Tiger-bend push-up,Chest,Body Only
+470,Face-down incline dumbbell biceps curl,Biceps,Dumbbell
+471,Kneeling Jump Squat,Glutes,Barbell
+472,Jump Squat,Quadriceps,Body Only
+473,Band-assisted pull-up,Lats,Bands
+474,Barbell Bench Press-Wide Grip,Chest,Barbell
+475,Over bench jump,Quadriceps,Body Only
+476,Single-arm side deadlift,Quadriceps,Barbell
+477,Sit-up,Abdominals,Body Only
+478,Side Bridge,Abdominals,Body Only
+479,Zottman Preacher Curl,Biceps,
+480,Split Jump,Quadriceps,Body Only
+481,Plyo push-up,Chest,Body Only
+482,Inchworm-,Hamstrings,Body Only
+483,Cable rope preacher hammer curl,Biceps,Cable
+484,Vertical Swing,Hamstrings,Dumbbell
+485,Seated Bent-Over One-Arm Dumbbell Triceps Extension,Triceps,Dumbbell
+486,Lying oblique crunch,Abdominals,Body Only
+487,Machine Triceps Extension,Triceps,Machine
+488,Janda Sit-Up,Abdominals,Body Only
+489,Sled push-,Hamstrings,Other
+490,Seated Dumbbell Inner Biceps Curl,Biceps,Dumbbell
+491,Close-grip hands-elevated push-up,Chest,Body Only
+492,Barbell Squat To A Bench,Quadriceps,Barbell
+493,Standing Inner-Biceps Curl,Biceps,Dumbbell
+494,Single-arm kettlebell swing,Hamstrings,Kettlebells
+495,Pull Through,Glutes,Cable
+496,Leg Pull-In,Abdominals,Body Only
+497,Standing Leg Curl,Hamstrings,Machine
+498,Lying cable chest fly,Chest,Cable
+499,Single-arm pull-down,Lats,Machine
+500,Side Jackknife,Abdominals,Body Only
+501,Dumbbell Walking Lunge,Quadriceps,Dumbbell
+502,Lateral hop,Adductors,Body Only
+503,Suspended push-up,Chest,Body Only
+504,Two-Arm Kettlebell Row,Middle Back,Kettlebells
+505,One Arm Floor Press,Triceps,Barbell
+506,Kettlebell Pass Between The Legs,Abdominals,Kettlebells
+507,Wide-Grip Decline Barbell Pullover,Chest,Barbell
+508,Feet-elevated crunch,Abdominals,Exercise Ball
+509,Smith machine upright row,Traps,Machine
+510,Smith Machine Decline Press,Chest,Machine
+511,Moving Claw Series,Hamstrings,Body Only
+512,Single-dumbbell push-up,Chest,Dumbbell
+513,Front Cone Hops (or hurdle hops),Quadriceps,Other
+514,Weighted Squat,Quadriceps,Other
+515,Cable Incline Pushdown,Lats,Cable Machine
+516,Hip Extension with Bands,Glutes,Bands
+517,Kipping Muscle Up,Lats,Body Only
+518,Reverse Plate Curls,Biceps,Other
+519,Clean Pull,Quadriceps,Barbell
+520,Push Up to Side Plank,Chest,Body Only
+521,Lying Close-Grip Bar Curl On High Pulley,Biceps,Cable
+522,Behind-the-neck pull-down,Lats,Cable
+523,Isometric Chest Squeezes,Chest,Body Only
+524,Seated leg tuck,Abdominals,
+525,Standing Biceps Stretch,Biceps,Other
+526,Incline cable straight-bar triceps extension,Triceps,Cable
+527,Groin and Back Stretch,Adductors,None
+528,Bench skip,Quadriceps,Other
+529,Scissor Kick,Abdominals,Body Only
+530,Smith machine pistol squat,Quadriceps,Machine
+531,Wide-Stance Leg Press,Quadriceps,
+532,Dumbbell Squat To A Bench,Quadriceps,Dumbbell
+533,Floor rope climb,Lats,Other
+534,Smith machine stiff-legged deadlift,Hamstrings,Machine
+535,Single-arm kettlebell overhead squat,Quadriceps,Kettlebells
+536,Barbell Side Bend,Abdominals,Barbell
+537,90-degree jump squat,Quadriceps,Body Only
+538,Pin Presses,Triceps,Barbell
+539,Backward Drag,Quadriceps,Other
+540,Toe Touchers,Abdominals,Body Only
+541,Alternate Leg Diagonal Bound,Quadriceps,None
+542,Sled Push,Quadriceps,Other
+543,Clean Shrug,Traps,Barbell
+544,Barbell squat with plate slide,Quadriceps,Other
+545,Monster Walk,Abductors,Body Only
+546,Barbell Guillotine Bench Press,Chest,Barbell
+547,Standing Toe Touches,Hamstrings,
+548,Lying groin stretch with band,Hamstrings,Body Only
+549,Standing Hamstring and Calf Stretch,Hamstrings,Bands
+550,Side-to-side push-up,Chest,Body Only
+551,Piriformis SMR,Glutes,Foam Roll
+552,Scapular Pull-Up,Traps,None
+553,Lower Back Curl,Abdominals,Body Only
+554,One-Arm Flat Bench Dumbbell Flye,Chest,Dumbbell
+555,Suspended split squat,Quadriceps,Other
+556,Straight Bar Bench Mid Rows,Middle Back,Barbell
+557,Standing hip extension,Glutes,Body Only
+558,Standing Towel Triceps Extension,Triceps,Body Only
+559,Weighted Ball Side Bend,Abdominals,Exercise Ball
+560,Atlas Stone Trainer,Lower Back,Other
+561,Inverted Row with Straps,Middle Back,Other
+562,Extended Range One-Arm Kettlebell Floor Press,Chest,Kettlebells
+563,Bent Press,Abdominals,Kettlebells
+564,Lying Hamstring,Hamstrings,Other
+565,Dumbbell Tricep Extension -Pronated Grip,Triceps,Dumbbell
+566,One Arm Chin-Up,Middle Back,Other
+567,Intermediate Hip Flexor and Quad Stretch,Quadriceps,Other
+568,Snatch Shrug,Traps,Barbell
+569,Barbell seal row,Middle Back,Barbell
+570,Sit Squats,Quadriceps,None
+571,Kettlebell alternating floor press,Chest,Kettlebells
+572,Hip Lift with Band,Glutes,Bands
+573,Forward Drag with Press,Chest,Other
+574,Medicine Ball Chest Pass,Chest,Medicine Ball
+575,Lying hamstring stretch with band,Hamstrings,None
+576,One Arm Against Wall,Lats,Body Only
+577,Catch and Overhead Throw,Lats,Medicine Ball
+578,Smith Machine Hang Power Clean,Hamstrings,
+579,Lying High Bench Barbell Curl,Biceps,Barbell
+580,Squats - With Bands,Quadriceps,Bands
+581,Dynamic chest stretch,Chest,
+582,Rhomboids SMR,Middle Back,Body Only
+583,Chain Press,Chest,Other
+584,Skip,Quadriceps,Body Only
+585,Hamstring-SMR,Hamstrings,Foam Roll
+586,Bench Press - With Bands,Chest,Bands
+587,Tricep Side Stretch,Triceps,Body Only
+588,Kneeling hip flexor stretch,Quadriceps,Body Only
+589,Hug A Ball,Lower Back,Body Only
+590,Quadriceps SMR,Quadriceps,Foam Roll
+591,Upper Back-Leg Grab,Hamstrings,None
+592,Dancer's Stretch,Lower Back,None
+593,Spinal Stretch,Middle Back,Body Only
+594,Front Barbell Squat To A Bench,Quadriceps,Barbell
+595,Child's pose,Lower Back,Body Only
+596,Kettlebell Dead Clean,Hamstrings,Kettlebells
+597,Seated Hamstring,Hamstrings,None
+598,Iron Crosses (stretch),Quadriceps,Body Only
+599,Seated Floor Hamstring Stretch,Hamstrings,Mat
+600,Pelvic Tilt Into Bridge,Lower Back,Body Only
+601,Seated Biceps,Biceps,Body Only
+602,90/90 Hamstring,Hamstrings,Body Only
+603,All Fours Quad Stretch,Quadriceps,Body Only
+604,Cable Judo Flip,Abdominals,Cable
+605,Exercise ball torso rotation,Abdominals,Body Only
+606,Lying quad stretch with band,Quadriceps,Body Only
+607,Cat Stretch,Lower Back,None
+608,Behind Head Chest Stretch,Chest,Other
+609,Alternating Hang Clean,Hamstrings,Kettlebells
+610,Lying glute stretch,Glutes,Body Only
+611,Triceps Stretch,Triceps,Body Only
+612,Elbows Back,Chest,None
+613,Dynamic Back Stretch,Lats,None
+614,Seated bar twist,Abdominals,Barbell
+615,One Half Locust,Quadriceps,Body Only
+616,Latissimus dorsi SMR,Lats,Foam Roll
+617,Seated Overhead Stretch,Abdominals,Body Only
+618,Lower back SMR,Lower Back,Foam Roll
+619,Hug Knees To Chest,Lower Back,Body Only
+620,World's greatest stretch,Hamstrings,Body Only
+621,Standing Hip Flexors,Quadriceps,Body Only
+622,The Straddle,Hamstrings,Body Only
+623,Looking At Ceiling,Quadriceps,Body Only
+624,Upper Back Stretch,Middle Back,Body Only
+625,Alternating lunge jump,Hamstrings,None
+626,Downward Facing Balance,Glutes,Exercise Ball
+627,Adductor SMR,Adductors,Foam Roll
+628,Crossover Reverse Lunge,Lower Back,None
+629,Overhead Stretch,Abdominals,Body Only
+630,Frog Hops,Quadriceps,None
+631,Side Lying Groin Stretch,Adductors,Body Only
+632,Middle Back Stretch,Middle Back,Body Only
+633,Runner's Stretch,Hamstrings,None
+634,One Handed Hang,Lats,Body Only
+635,Exercise ball chest stretch,Chest,Exercise Ball
+636,Adductor/Groin,Adductors,None
+637,Knee Across The Body,Glutes,Body Only
+638,Rear Leg Raises,Quadriceps,Body Only
+639,Overhead Triceps,Triceps,Body Only
+640,On Your Side Quad Stretch,Quadriceps,Body Only
+641,On-Your-Back Quad Stretch,Quadriceps,Body Only
+642,Chair Lower Back Stretch,Lats,None
+643,Standing side bend stretch,Lats,Body Only
+644,Brachialis SMR,Biceps,Foam Roll
+645,Seated Glute,Glutes,Body Only
+646,Standing Pelvic Tilt,Lower Back,None
+647,Lying Glute,Glutes,Body Only
+648,Pass-through stretch with band,Chest,Other
+649,Lying Bent Leg Groin,Adductors,Other
+650,One Knee To Chest,Glutes,Body Only
+651,Standing Elevated Quad Stretch,Quadriceps,Body Only
+652,Chair Leg Extended Stretch,Hamstrings,Other
+653,IT Band and Glute Stretch,Abductors,Body Only
+654,Single-leg lying cross-over stretch,Abductors,Body Only
+655,Side-Lying Floor Stretch,Lats,None
+656,Overhead Lat,Lats,Other
+657,Pyramid,Lower Back,Body Only
+658,Sled Drag - Harness,Quadriceps,Other
+659,Burpee over barbell,Quadriceps,Other
+660,Medicine ball rotational throw,Abdominals,Medicine Ball
+661,Medicine ball sprawl to chest press,Chest,Medicine Ball
+662,Bosu Ball Crunch,Abdominals,Bosu Ball
+663,Dumbbell Overhead Squat,Quadriceps,Dumbbells
+664,Front Squat Push Press,Quadriceps,Barbell
+665,Weighted Push-Up,Chest,Other
+666,Dumbbell walking lunge-,Quadriceps,Other
+667,Suitcase crunch,Abdominals,Other
+668,Seated Scissor Kick,Abdominals,Body Only
+669,Dumbbell thruster,Quadriceps,Dumbbell
+670,Thigh killa,Quadriceps,Body Only
+671,Sumo Deadlift with Bands,Hamstrings,Barbell
+672,Partner Facing Feet-Elevated Side Plank With Band Row,Middle Back,Bands
+673,Barbell reverse lunge,Quadriceps,Barbell
+674,One-Arm Kettlebell Floor Press,Chest,Kettlebells
+675,Prone Manual Hamstring,Hamstrings,Body Only
+676,Suspended Leg Curl,Hamstrings,Other
+677,Single-Leg Box Jump,Quadriceps,Other
+678,Hollow-hold ball toss,Abdominals,Medicine Ball
+679,Southpaw sprawl,Quadriceps,Body Only
+680,Conan's Wheel,Quadriceps,Other
+681,JM Press With Bands,Triceps,Barbell
+682,Kettlebell side squat,Quadriceps,Kettlebells
+683,Single-Leg Hop Progression,Quadriceps,Other
+684,Partner resistance standing twist,Abdominals,Body Only
+685,Rickshaw Deadlift,Quadriceps,Other
+686,Burpee to pull-up,Lats,Body Only
+687,Barbell pull-over to press,Lats,Barbell
+688,Stride Jump Crossover,Quadriceps,Body Only
+689,Typewriter push-up,Chest,Body Only
+690,Feet Jack,Quadriceps,Body Weight
+691,Cross Crunch,Abdominals,Body Only
+692,Dumbbell front squat,Quadriceps,Dumbbell
+693,Carioca quick step,Adductors,Body Only
+694,Split Clean,Quadriceps,Barbell
+695,Single-cone sprint drill,Quadriceps,Other
+696,Heavy Bag Thrust,Chest,Other
+697,Diamond push-up,Chest,Body Only
+698,Single-Leg Stride Jump,Quadriceps,Other
+699,Side Standing Long Jump,Quadriceps,Body Only
+700,Dumbbell lateral hop to sprint,Quadriceps,None
+701,Close-stance dumbbell front squat,Quadriceps,Barbell
+702,Front Squat (Clean Grip),Quadriceps,Barbell
+703,Wall squat,Quadriceps,Body Only
+704,Suspended Curl,Biceps,Other
+705,Hip Flexion with Band,Quadriceps,Bands
+706,Reverse Band Deadlift,Lower Back,Barbell
+707,Sled Row,Middle Back,Other
+708,Leg-Over Floor Press,Chest,Kettlebells
+709,Full Moon,Abdominals,Body Only
+710,Good Morning off Pins,Hamstrings,Barbell
+711,Barbell front squat to back squat,Quadriceps,Barbell
+712,Slide Jump Shot,Quadriceps,Body Only
+713,Sprawl frog kick,Quadriceps,Body Only
+714,Lateral Speed Step,Quadriceps,Body Only
+715,Squat Jerk,Quadriceps,Barbell
+716,One-Arm Open Palm Kettlebell Clean,Hamstrings,Kettlebells
+717,Barbell Front-To-Back Squat,Quadriceps,Barbell
+718,Knee To Chest,Hamstrings,Body Only
+719,Single-Arm Dumbbell Overhead Squat,Quadriceps,Dumbbell
+720,Trap Bar Jump,Quadriceps,Other
+721,Side Hop-Sprint,Quadriceps,Body Only
+722,Judo push-up,Chest,Body Only
+723,Decline Explosive Push-Up,Chest,Other
+724,Forward Band Walk,Quadriceps,Bands
+725,Stiff-Legged Deadlift,Hamstrings,Barbell
+726,Single-Leg Lateral Hop,Quadriceps,Other
+727,Bench Press With Short Bands,Chest,Bands
+728,Plate hammer curl,Biceps,Other
+729,Open Palm Kettlebell Clean,Hamstrings,Kettlebells
+730,Bosu Ball Push-Up,Chest,Exercise Ball
+731,Pop squat,Quadriceps,Body Only
+732,Box Skip,Hamstrings,Other
+733,Box Squat with Chains,Quadriceps,Barbell
+734,Seated Glute Stretch,Glutes,Body Only
+735,Superman Push-Up,Chest,Body Only
+736,Snatch from Blocks,Quadriceps,Barbell
+737,V-sit with overhead triceps extension,Triceps,Dumbbell
+738,Wide push-up,Chest,Body Only
+739,JM Press,Triceps,Barbell
+740,Yates Row,Middle Back,Barbell
+741,Glute Bridge Hamstring Walkout,Glutes,
+742,Around-the-world pull-up,Lats,Other
+743,Partner front Russian twist and pass,Abdominals,Medicine Ball
+744,Power Stairs,Hamstrings,Other
+745,Kettlebell sumo squat,Quadriceps,Kettlebells
+746,Star Jump,Quadriceps,Body Only
+747,Medicine ball push-up,Chest,Medicine Ball
+748,Sled Overhead Triceps Extension,Triceps,Other
+749,Sit-up with single-arm overhand throw,Abdominals,Medicine Ball
+750,Standing hip circle,Abductors,Body Only
+751,Side Lunge Touching Heel,Quadriceps,Body Only
+752,Medicine ball partner twist,Abdominals,Medicine Ball
+753,Dumbbell lateral hop,Quadriceps,Dumbbell
+754,Snatch Pull,Hamstrings,Barbell
+755,Lying Prone Quadriceps,Quadriceps,Body Only
+756,Hanging knee raise with manual resistance,Abdominals,Body Only
+757,Dumbbell lunge with biceps curl,Quadriceps,Dumbbell
+758,Hurdle Hops,Hamstrings,Body Only
+759,Kettlebell 3-point leg extension,Abdominals,Kettlebells
+760,Russian Bar Dip,Triceps,Body Only
+761,Floor Press with Chains,Triceps,Barbell
+762,Body Triceps Press Using Flat Bench,Triceps,Other
+763,Straight-Legged Hip Raise,Abdominals,Body Only
+764,Lateral cone hop,Adductors,Body Only
+765,One-Arm Push-Up,Chest,Body Only
+766,Fast Kick With Arm Circles,Quadriceps,Body Only
+767,Power Snatch from Blocks,Quadriceps,Barbell
+768,Dumbbell Pistol Squat,Quadriceps,Dumbbell
+769,Wall mountain climber,Abdominals,Body Only
+770,Seated Hamstring and Calf Stretch,Hamstrings,Other
+771,Burpee Box-Jumps,Quadriceps,Other
+772,Suspended Chest Fly,Chest,Other
+773,Single-leg box squat,Quadriceps,Body Only
+774,Defensive Slide,Quadriceps,Body Only
+775,Front Squat (Bodybuilder),Quadriceps,Barbell
+776,Partner Flat-Bench Back Extension,Lower Back,Other
+777,Quick Leap,Quadriceps,Body Only
+778,Skin The Cat To Push-Up,Abdominals,Body Only
+779,Suspended Triceps Press,Triceps,Other
+780,Sandbag Load,Quadriceps,Other
+781,Partner Superman with alternating high-five,Lower Back,Body Only
+782,Partner lying leg raise with lateral throw down,Abdominals,Body Only
+783,Partner plank with high-five,Abdominals,
+784,Kettlebell Hang Clean,Hamstrings,Kettlebells
+785,Dumbbell Squat Snatch,Quadriceps,Dumbbell
+786,Clapping Push-Up,Chest,Body Only
+787,Suspended Hip Thrust,Glutes,Other
+788,Svend press,Chest,Other
+789,Hanging Bar Good Morning,Hamstrings,Barbell
+790,Vertical Mountain Climber,Quadriceps,Body Only
+791,Barbell step-down reverse lunge,Quadriceps,Barbell
+792,Split Squat With Kettlebells,Quadriceps,
+793,Double Kettlebell Alternating Hang Clean,Hamstrings,Kettlebells
+794,Keg Load,Lower Back,Other
+795,Reverse Burpee,Quadriceps,Body Only
+796,Kettlebell thruster progression,Quadriceps,Kettlebells
+797,Hip Stretch With Twist,Hamstrings,Body Only
+798,Linear 3-Part Start Technique,Hamstrings,Body Only
+799,Chest Push (single response),Chest,Medicine Ball
+800,Jump lunge heel kick,Quadriceps,Body Only
+801,Partner side plank band row,Middle Back,Bands
+802,Reverse Band Sumo Deadlift,Hamstrings,Barbell
+803,Plate Row,Middle Back,Barbell
+804,Burpee box jump,Quadriceps,Body Only
+805,Hand Release Push-Up,Chest,
+806,Muscle Snatch,Hamstrings,Barbell
+807,Partner side Russian twist and pass,Abdominals,Medicine Ball
+808,Chest Push with Run Release,Chest,Medicine Ball
+809,Kettlebell power clean,Quadriceps,Kettlebells
+810,Alternating Leg Swing,Hamstrings,Body Only
+811,Seated wide-grip curl to close-grip curl,Biceps,Barbell
+812,Linear Depth Jump,Quadriceps,Body Only
+813,Assisted Chin-Up,Lats,Bands
+814,Lateral box jump,Adductors,Other
+815,Single-leg knee-tap squat,Quadriceps,Other
+816,Band overhead triceps press,Triceps,Bands
+817,Squat with Bands,Quadriceps,Barbell
+818,Partner bench back extension,Lower Back,Other
+819,Slow Jog,Quadriceps,Body Only
+820,Staggered push-up,Chest,Body Only
+821,Dumbbell Alternating Lunge,Quadriceps,Dumbbell
+822,L-sit chin-up,Lats,Other
+823,Single-leg balance and reach,Hamstrings,Body Only
+824,Hamstring slide,Hamstrings,Other
+825,Heaving Snatch Balance,Quadriceps,Barbell
+826,Snatch Balance,Quadriceps,Barbell
+827,Kettlebell fire feet,Quadriceps,Kettlebells
+828,High knees,Quadriceps,Body Only
+829,Reverse-grip hands-elevated push-up,Chest,Body Only
+830,Smith machine bench press throw,Chest,Machine
+831,Chest Push from 3 point stance,Chest,Medicine Ball
+832,Jumping Jack,Quadriceps,Body Only
+833,Seated Straigh-Bar Curl Superset,Biceps,Barbell
+834,Hanging leg raise with throw down,Abdominals,Body Only
+835,Split Snatch,Hamstrings,Barbell
+836,Lateral Band Walk,Abductors,Bands
+837,Straight-arm plank with kick-back,Triceps,Body Only
+838,Square Hop,Quadriceps,Body Only
+839,Partner sit-up with high-five-,Abdominals,Body Only
+840,Bosu Ball Squat,Quadriceps,Exercise Ball
+841,Hang Snatch - Below Knees,Hamstrings,Barbell
+842,Running lunge,Quadriceps,Body Only
+843,Negative pull-up,Lats,Body Only
+844,Exercise ball knee roll-in,Abdominals,Body Only
+845,Partner lying leg raise with throw down,Abdominals,Body Only
+846,Dumbbell jump squat,Quadriceps,Dumbbell
+847,Reverse Band Bench Press,Triceps,Barbell
+848,Leverage Deadlift,Quadriceps,Machine
+849,Smith machine lunge sprint,Quadriceps,None
+850,Medicine ball ninja,Quadriceps,Medicine Ball
+851,Crab toe-touch,Abdominals,Body Only
+852,In-out jump squat,Quadriceps,Body Only
+853,Feet-Elevated TRX Push-Up,Chest,Bands
+854,Car Deadlift,Quadriceps,Other
+855,Barbell Deadlift Bent Row Complex,Middle Back,Barbell
+856,Side kick-through,Abdominals,Body Only
+857,Partner target sit-up,Abdominals,Body Only
+858,Neck Bridge Supine,Glutes,Body Only
+859,Barbell Squat To A Box,Quadriceps,Other
+860,Gorilla squat,Quadriceps,Body Only
+861,Dumbbell Side Lunge,Quadriceps,Dumbbell
+862,Burpee tuck jump,Quadriceps,Body Only
+863,Single-Arm Landmine Row,Middle Back,Barbell
+864,Partner plank band row,Abdominals,Bands
+865,Double Under,Quadriceps,Other
+866,Reverse Band Power Squat,Quadriceps,Barbell
+867,Single Arm Overhead Kettlebell Squat,Quadriceps,Kettlebells
+868,Speed skater,Quadriceps,Body Only
+869,High Kick,Hamstrings,Body Only
+870,Triple Clap Push-Up,Chest,Body Only
+871,Jumping knee up-down,Quadriceps,Body Only
+872,Bar Push-Up Smith Machine,Chest,Other
+873,Seated Band Hamstring Curl,Hamstrings,Other
+874,Suspended Crunch,Abdominals,Body Only
+875,Jump Lunge To Feet Jack,Quadriceps,Body Only
+876,Dave Draper Forehead Curl,Biceps,Barbell
+877,Walking High Knee,Glutes,Body Only
+878,Walking Butt Kicks,Glutes,Body Only
+879,Walking Glute Stretch,Glutes,Body Only
+880,Side-To-Side Adductor Stretch,Adductors,Body Only
+881,Reverse Lunge Rotation,Quadriceps,Body Only
+882,Lunge kick,Glutes,Body Only
+883,Swiss Ball Ab Roll-Out,Abdominals,Exercise Ball
+884,Curtsy lunge,Glutes,Body Only
+885,Jump Lunge,Abdominals,Body Only
+886,Side plank hip dip,Abdominals,Body Only
+887,Elbow plank jack,Abdominals,Body Only
+888,Exercise ball V-up,Abdominals,Body Only
+889,Standing torso twist stretch,Abdominals,Body Only
+890,Band-suspended kettlebell bench press,Chest,Bands
+891,Machine low row-,Traps,Machine
+892,Reverse-grip EZ-bar curl,Biceps,Barbell
+893,Standing EZ-Bar Curl - Gethin Variation,Biceps,E-Z Curl Bar
+894,Cable EZ-Bar Preacher Curl - Gethin Variation,Biceps,Cable
+895,EZ-Bar Skullcrusher - Gethin Variation,Triceps,E-Z Curl Bar
+896,Squatting cable EZ-bar biceps curl,Biceps,Cable
+897,EZ-Bar Spider Curl - Gethin Variation,Biceps,Barbell
+898,Dumbbell crunch,Abdominals,Dumbbell
+899,Crunch Isometric Hold Without Dumbbell - Gethin Variation,Abdominals,
+900,Banded crunch isometric hold,Abdominals,Bands
+901,Straight-arm cable pull-over,Lats,Cable
+902,Machine Low Row,Middle Back,Machine
+903,Slalom jumps,Abdominals,Body Only
+904,Exercise Ball Cable Crunch - Gethin Variation,Abdominals,Cable
+905,Alternating standing knee-pull stretch,Quadriceps,Body Only
+906,Alternating standing glute stretch,Glutes,Body Only
+907,Yoga plex,Lower Back,Body Only
+908,Seal jack,Quadriceps,Body Only
+909,Bear crawl,Abdominals,Body Only
+910,Crab single-arm reach,Abdominals,Body Only
+911,Dynamic pigeon stretch,Abductors,Body Only
+912,Exercise ball rear delt fly,Lower Back,Exercise Ball
+913,Ball Hamstring Hat Trick,Hamstrings,Exercise Ball
+914,Plate push,Quadriceps,Other
+915,Side kick-through push-up,Chest,Body Only
+916,Side lunge cross-body heel-touch,Abdominals,Body Only
+917,Cross-over jack,Abductors,Body Only
+918,Alligator Crawl,Abdominals,Body Only
+919,Lying cross-over lower back stretch,Abdominals,Body Only
+920,Side-lying leg lift,Glutes,Body Only
+921,Kneeling quad thoracic stretch,Quadriceps,Body Only
+922,Half bird dog,Abdominals,Body Only
+923,Hybrid deadlift,Quadriceps,Other
+924,Single-Leg Squat With Knee Tap,Quadriceps,Body Only
+925,Shuttle run,Quadriceps,Body Only
+926,Dumbbell pull-over to skullcrusher,Middle Back,Dumbbell
+927,Squat Isometric Hold,Quadriceps,Body Only
+928,Lying rear delt Y,Lower Back,Exercise Ball
+929,Wall sit,Quadriceps,Body Only
+930,Chin-Up,Lats,Body Only
+931,One-Arm Medicine Ball Slam,Abdominals,
+932,Standing lat pull-down,Middle Back,Machine
+933,Shoulder tap,Abdominals,Body Only
+934,Double crunch,Abdominals,Body Only
+935,Flutter kick,Abdominals,Body Only
+936,Sprawl,Abdominals,Body Only
+937,Spider plank jack,Abdominals,Body Only
+938,Exercise ball squat and twist,Abdominals,Exercise Ball
+939,Exercise ball Bulgarian split squat,Quadriceps,Exercise Ball
+940,Swiss Ball V-Up With Foot Pass,Abdominals,Exercise Ball
+941,Exercise ball pike,Abdominals,Exercise Ball
+942,Exercise ball bird dog,Abdominals,Exercise Ball
+943,Exercise ball superman,Abdominals,Exercise Ball
+944,Walking lunge with hip extension,Quadriceps,Body Only
+945,Squat with alternating side leg raise,Quadriceps,Body Only
+946,Lateral Squats,Quadriceps,Body Only
+947,Walking lunge with twist,Quadriceps,Body Only
+948,Lying Leg Curl - Gethin Variation,Hamstrings,Machine
+949,PJR Pull-Over,Triceps,Dumbbell
+950,GHD Sit-Up,Abdominals,
+951,Swimming,Chest,Body Only
+952,Boss Everline Dumbbell Lunge Jump,Quadriceps,Dumbbell
+953,Boss Everline Backward Lunge Walk,Quadriceps,Body Only
+954,Boss Everline Resistance-Band Pull Sprint,Quadriceps,Bands
+955,Boss Everline 10-Yard Sprints,Hamstrings,Body Only
+956,Boss Everline 30-Second Uphill Sprint,Abdominals,
+957,Boss Everline Suspension Side Run,Quadriceps,Other
+958,Boss Everline Lunge Sled Push,Quadriceps,Other
+959,Pillar-To-Plank,Abdominals,Body Only
+960,Alternating High Knee Raise,Abdominals,Body Only
+961,Sumo Squat Pulse,Abdominals,Body Only
+962,Dumbbell Fix Dumbbell Sprawl,Abdominals,Dumbbell
+963,Dumbbell Fix Side Plank Rear-Delt Raise,Abdominals,Dumbbells
+964,Dumbbell Fix Alternating Renegade Row,Abdominals,Dumbbell
+965,Dumbbell Fix Dumbbell Swing,Hamstrings,Dumbbell
+966,Dumbbell Fix Dumbbell Mountain Climber,Abdominals,Dumbbell
+967,Dumbbell Fix Dumbbell Floor Chest Fly,Chest,Dumbbell
+968,Dumbbell Fix Dumbbell Russian Twist,Abdominals,Dumbbell
+969,Dumbbell Fix Dumbbell Split Squat,Quadriceps,Dumbbell
+970,Single-leg dumbbell Romanian deadlift,Quadriceps,Dumbbell
+971,Dumbbell Fix Single-Arm Dumbbell Row,Middle Back,Dumbbell
+972,Dumbbell Fix Traveling Push-Up,Chest,Dumbbell
+973,Dumbbell Fix Dumbbell Alternating Reverse Lunge,Quadriceps,Dumbbell
+974,Dumbbell Fix Turkish Get-Up,Quadriceps,Dumbbell
+975,Dumbbell Fix Dumbbell Pull-Over,Abdominals,Dumbbell
+976,Dumbbell Fix Dumbbell Sit-Up,Abdominals,Dumbbell
+977,Dumbbell Fix Goblet Stand-Kneel-Stand,Abdominals,Dumbbells
+978,Dumbbell Fix Bent-Over Dumbbell Row,Middle Back,Dumbbell
+979,Dumbbell Fix Narrow-Grip Dumbbell Push-Up,Triceps,Dumbbells
+980,Dumbbell Fix Dumbbell Deadlift,Lower Back,Dumbbell
+981,Dumbbell Fix Dumbbell Front Squat,Abdominals,Dumbbell
+982,Dumbbell Fix Full Man Maker,Abdominals,Dumbbell
+983,Paul Carter Incline Bench Press,Chest,Barbell
+984,Paul Carter Cable Cross-Over,Chest,Cable
+985,Paul Carter Lat Pull-Down,Middle Back,Cable
+986,PJR pull-over-,Lats,Dumbbell
+987,Leg press-,Quadriceps,Machine
+988,Paul Carter Back Squat,Quadriceps,Barbell
+989,Paul Carter Leg Extension,Hamstrings,Machine
+990,Seated hammer curl,Biceps,Dumbbell
+991,Paul Carter Overhead Rope Triceps Extension,Triceps,Cable
+992,Incline dumbbell chest fly,Chest,Dumbbell
+993,Paul Carter T-Bar Row,Middle Back,Other
+994,Paul Carter Dumbbell Shrug,Chest,Dumbbell
+995,Paul Carter Incline Dumbbell Biceps Curl,Biceps,Dumbbell
+996,Paul Carter Barbell Split Squat,Quadriceps,Barbell
+997,Paul Carter Romanian Deadlift,Lower Back,Barbell
+998,Lying leg curl,Hamstrings,Machine
+999,Paul Carter Concentration Curl,Biceps,Dumbbell
+1000,Paul Carter Dumbbell Kick-Back,Triceps,Dumbbell
+1001,Crab Reaches,Abdominals,
+1002,Line-Drill Foot Work,Abdominals,Body Only
+1003,Low Squat Hops to Tuck Jump,Abdominals,
+1004,Reverse Diagonal Skaters,Quadriceps,Body Only
+1005,Plank Fire Hydrants,Abdominals,Body Only
+1006,Bench 300 Shoulder Dislocation Stretch-Dowel,Chest,
+1007,Bench 300 Band Pull Apart,Abdominals,
+1008,Bench 300 Barbell Bench Press - Medium Grip,Chest,
+1009,Bench 300 Barbell Incline Bench Press Medium-Grip,Chest,
+1010,Bench 300 Parallel Bar Dip,Chest,
+1011,Bench 300 Dumbbell Flyes,Chest,
+1012,Bench 300 pushups,Chest,
+1013,Double Kettlebell Swing,Abdominals,Kettlebells
+1014,Single-Arm Cross-Body Extension,Triceps,
+1015,FYR Air Squat,Quadriceps,Body Only
+1016,FYR Dumbbell Curl,Biceps,Dumbbell
+1017,Banded jumping jack,Abdominals,Body Only
+1018,Shin hug,Abdominals,Body Only
+1019,Seesaw lunge,Quadriceps,Dumbbell
+1020,FYR Bear Crawl Fire Feet,Abdominals,Body Only
+1021,Bear crawl up-down,Abdominals,Body Only
+1022,FYR Crab Kick,Abdominals,Body Only
+1023,Dumbbell biceps curl to upright row,Biceps,Dumbbell
+1024,Bear crawl hold,Abdominals,Body Only
+1025,Traveling bear crawl,Abdominals,Body Only
+1026,Single-leg V-up,Abdominals,Body Only
+1027,FYR Rope Jumping,Abdominals,Other
+1028,Hollow-body alternating knee-to-chest,Abdominals,
+1029,Bear crawl knee tap,Abdominals,
+1030,FYR Shin Hug,Abdominals,
+1031,Burpee-,Abdominals,
+1032,FYR Bear Crawl Shoulder Tap,Abdominals,Body Only
+1033,FYR Push-Up,Chest,Body Only
+1034,Alternating single-leg sprawl,Abdominals,Body Only
+1035,Wide mountain climber,Abdominals,Body Only
+1036,Plank leg raise,Abdominals,Body Only
+1037,Burpee over kettlebell,Abdominals,Kettlebells
+1038,Glute bridge step-out,Abdominals,Body Only
+1039,Pulsing goblet squat,Quadriceps,Kettlebells
+1040,Double-kettlebell alternating lunge to clean,Quadriceps,Kettlebells
+1041,FYR Banded Plank Jack,Abdominals,Bands
+1042,Banded jump squat,Quadriceps,Bands
+1043,FYR Sumo Deadlift High Pull,Lower Back,Kettlebells
+1044,FYR Tuck Jump,Quadriceps,Body Only
+1045,Knee up-down,Abdominals,Body Only
+1046,FYR Sprawl,Abdominals,Body Only
+1047,Kettlebell deadlift,Lower Back,Kettlebells
+1048,FYR Goblet Squat,Quadriceps,Kettlebells
+1049,Reach crunch,Abdominals,Body Only
+1050,FYR Push-Up Plank Hold,Abdominals,Body Only
+1051,FYR Hollow-Body Rock,Abdominals,Body Only
+1052,V-up plus knee-to-chest combo,Abdominals,Body Only
+1053,FYR Dumbbell Hammer Curl,Biceps,Dumbbell
+1054,Dumbbell T-hold,Abdominals,Dumbbell
+1055,V-up combo,Abdominals,
+1056,FYR Kettlebell Sumo Squat,Quadriceps,Kettlebells
+1057,Side plank lateral raise,Abdominals,Body Only
+1058,Knee up-down,Abdominals,Body Only
+1059,FYR Sprawl,Abdominals,Body Only
+1060,Kettlebell deadlift,Lower Back,Kettlebells
+1061,FYR Goblet Squat,Quadriceps,Kettlebells
+1062,Reach crunch,Abdominals,Body Only
+1063,FYR Push-Up Plank Hold,Abdominals,Body Only
+1064,FYR Hollow-Body Rock,Abdominals,Body Only
+1065,V-up plus knee-to-chest combo,Abdominals,Body Only
+1066,FYR Dumbbell Hammer Curl,Biceps,Dumbbell
+1067,Dumbbell T-hold,Abdominals,Dumbbell
+1068,V-up combo,Abdominals,
+1069,FYR Kettlebell Sumo Squat,Quadriceps,Kettlebells
+1070,Side plank lateral raise,Abdominals,Body Only
+1071,Dumbbell hollow-body floor press,Abdominals,Dumbbell
+1072,FYR Kettlebell Swing Plus Break-Dancer,Abdominals,Kettlebells
+1073,Kettlebell toe-touch,Abdominals,Kettlebells
+1074,Double-kettlebell front squat,Quadriceps,Kettlebells
+1075,Push-up sprawl tuck jump,Quadriceps,Body Only
+1076,FYR Running Lunge,Quadriceps,Body Only
+1077,Kettlebell swing,Abdominals,Kettlebells
+1078,Bent-knee hollow pulse,Abdominals,
+1079,Superhero burpee,Abdominals,Body Only
+1080,Two-way swing,Abdominals,Kettlebells
+1081,Hollow-body abduction,Abdominals,Body Only
+1082,FYR Jumping Lunge,Quadriceps,Body Only
+1083,Dumbbell hollow-body floor press,Abdominals,Dumbbell
+1084,FYR Kettlebell Swing Plus Break-Dancer,Abdominals,Kettlebells
+1085,Kettlebell toe-touch,Abdominals,Kettlebells
+1086,Double-kettlebell front squat,Quadriceps,Kettlebells
+1087,Push-up sprawl tuck jump,Quadriceps,Body Only
+1088,FYR Running Lunge,Quadriceps,Body Only
+1089,Kettlebell swing,Abdominals,Kettlebells
+1090,Bent-knee hollow pulse,Abdominals,
+1091,Superhero burpee,Abdominals,Body Only
+1092,Two-way swing,Abdominals,Kettlebells
+1093,Hollow-body abduction,Abdominals,Body Only
+1094,FYR Jumping Lunge,Quadriceps,Body Only
+1095,Frog push-up,Chest,Body Only
+1096,FYR Hollow Hold,Abdominals,Body Only
+1097,Traveling thigh killa,Abductors,Body Only
+1098,Wide push-up plank hold,Chest,Body Only
+1099,Tip-toe crunch,Abdominals,Body Only
+1100,Knee-to-nose pulse,Abdominals,Body Only
+1101,FYR Sprawl Frog Kick,Quadriceps,Body Only
+1102,Plank walk-out,Abdominals,Body Only
+1103,FYR Goblet Squat Plus Plank-Up,Abdominals,
+1104,FYR Knee Up-Down Plus BC2 Push-Up,Abdominals,
+1105,Squat sprawl,Abdominals,
+1106,Medicine ball jumping sumo squat,Middle Back,Medicine Ball
+1107,Medicine ball zombie sit-up,Abdominals,
+1108,FYR Hollow Coil With V-Up,Abdominals,
+1109,Side kick-through to kettlebell high pull,Lats,Kettlebells
+1110,Dumbbell overhead hold with single-arm curl,Biceps,Dumbbell
+1111,Jump squat-,Quadriceps,Body Only
+1112,Hollow-body hold,Abdominals,Body Only
+1113,FYR V-Up,Abdominals,Body Only
+1114,FYR Double Kettlebell Push-Press,Abdominals,Kettlebells
+1115,FYR Kneeling Biceps,Biceps,Dumbbell
+1116,Kettlebell crab reach,Abdominals,Kettlebells
+1117,Medicine ball duck walk,Glutes,Medicine Ball
+1118,FYR Air Ball Plus Medicine Ball Jumping Sprawl,Quadriceps,Medicine Ball
+1119,Long sit-up,Abdominals,Body Only
+1120,FYR Sprinter Burpee,Quadriceps,Body Only
+1121,FYR Kettlebell Squat Clean,Quadriceps,Kettlebells
+1122,FYR Breakdancer,Abdominals,Body Only
+1123,Single-leg burpee,Quadriceps,Body Only
+1124,FYR Progressive High Knee,Glutes,Body Only
+1125,Lunge hold dumbbell curl,Biceps,Dumbbell
+1126,Seated leg lift,Abdominals,Body Only
+1127,Gorilla burpee,Abdominals,Body Only
+1128,Knee-in to V-out,Abdominals,Body Only
+1129,Bear crawl push-up,Abdominals,Body Only
+1130,FYR Gorilla Squat,Quadriceps,Body Only
+1131,FYR Single Leg-Arm V-Up,Abdominals,
+1132,Kettlebell bent-over row to clean,Middle Back,Kettlebells
+1133,FYR Front Step,Abdominals,Body Only
+1134,Plank reach,Abdominals,Body Only
+1135,Eiffel Tower leg raise,Abdominals,Body Only
+1136,FYR Dumbbell Biceps Curl,Biceps,Dumbbell
+1137,Straight-arm plank,Abdominals,Body Only
+1138,FYR Dumbbell Front Squat,Quadriceps,Dumbbell
+1139,Medicine ball cowboy squat,Quadriceps,Medicine Ball
+1140,Plank up-down,Abdominals,Body Only
+1141,Medicine ball half moon,Abdominals,Medicine Ball
+1142,Single-arm kettlebell front squat,Quadriceps,Kettlebells
+1143,Frog kick,Abdominals,Body Only
+1144,Banded compass jump squat,Quadriceps,Body Only
+1145,In-out sprawl,Quadriceps,Body Only
+1146,Knee-tuck kick-up,Quadriceps,Body Only
+1147,Bear crawl donkey kick,Quadriceps,Body Only
+1148,Southpaw sprawl with push-up,Quadriceps,Body Only
+1149,Dumbbell skier,Lower Back,Dumbbell
+1150,Dumbbell crusher,Abdominals,Dumbbell
+1151,Dumbbell push-up row,Chest,Dumbbell
+1152,FYR Thigh Killa,Abductors,Body Only
+1153,Plank up,Abdominals,
+1154,Medicine ball pike,Abdominals,
+1155,FYR Knees to Chest,Abdominals,Body Only
+1156,FYR Jumping Rope,Abdominals,
+1157,Frog kick to push-up,Abdominals,
+1158,Alternating dumbbell snatch,Biceps,Dumbbell
+1159,Bouncing lunge,Quadriceps,Body Only
+1160,Front kick-through,Abdominals,Body Only
+1161,FYR Sit-Up,Abdominals,Body Only
+1162,FYR Leg Lift,Abdominals,Body Only
+1163,Kettlebell front rack lunge,Quadriceps,Kettlebells
+1164,Exercise-Ball Oblique Crunch,Abdominals,Exercise Ball
+1165,Poston Press,Abdominals,
+1166,TBS Back Extension,Lower Back,Body Only
+1167,TBS T-Bar Row,Middle Back,Barbell
+1168,TBS Skullcrusher,Triceps,E-Z Curl Bar
+1169,TBS Hack Squat,Quadriceps,Machine
+1170,TBS Chin-Up,Biceps,Body Only
+1171,TBS Deficit Deadlift,Middle Back,Barbell
+1172,Dumbbell split squat,Quadriceps,Dumbbell
+1173,TBS Incline Dumbbell Curl,Biceps,Dumbbell
+1174,TBS Dumbbell Incline Press,Chest,Dumbbell
+1175,TBS Hammer Curl,Biceps,Dumbbell
+1176,TBS High-Bar Back Squat,Quadriceps,Barbell
+1177,TBS Dumbbell Romanian Deadlift,Lower Back,Dumbbell
+1178,Plate-weighted push-up,Chest,Other
+1179,TBS Rope Cable Push-Down,Triceps,Cable
+1180,TBS Dip,Triceps,Body Only
+1181,TBS EZ-Bar Curl,Biceps,E-Z Curl Bar
+1182,TBS Lat Pull-Down,Middle Back,Cable
+1183,TBS Good Morning,Lower Back,Barbell
+1184,Barbell curl-,Biceps,Barbell
+1185,TBS Barbell Front Squat,Quadriceps,Barbell
+1186,Incline bench press,Chest,Barbell
+1187,TBS Romanian Deadlift,Lower Back,Barbell
+1188,Bench press,Chest,Barbell
+1189,TBS Close-Grip Bench Press,Chest,Barbell
+1190,Barbell deadlift-,Lower Back,Barbell
+1191,Neutral-grip lat pull-down,Lower Back,Cable
+1192,TBS Pull-Up,Middle Back,Body Only
+1193,TBS Toes-to-bar,Abdominals,Body Only
+1194,Smith machine end-grip shoulder press,Triceps,Machine
+1195,Paul Carter Barbell Curl,Biceps,Barbell
+1196,Decline sit-up,Abdominals,None
+1197,Squat - Gethin Variation,Quadriceps,Barbell
+1198,FYR Mountain Climber,Abdominals,Body Only
+1199,Banded crunch,Abdominals,Bands
+1200,Barbell press sit-up,Abdominals,Other
+1201,Exercise ball roll-out,Abdominals,Medicine Ball
+1202,Dips - Gethin Variation,Abdominals,
+1203,Leg Extensions - Gethin Variation,Quadriceps,Machine
+1204,Seated leg press-,Quadriceps,Machine
+1205,Cable straight-bar biceps curl,Biceps,Cable
+1206,T-Bar Row - Gethin Variation,Abdominals,
+1207,Cable Straight-Arm Pulldown - Gethin Variation,Lats,Cable
+1208,Single-arm cable triceps kick-back,Triceps,Cable
+1209,Standing reverse-grip cable curl,Biceps,Cable
+1210,Incline cable rope triceps extension,Triceps,Cable
+1211,Standing cable high-to-low twist,Abdominals,Cable
+1212,Seated triceps push-down,Triceps,Other
+1213,Machine chest fly,Chest,Machine
+1214,Single-arm inverted row,Traps,Barbell
+1215,Leg Extenstions - Gethin Variation,Abdominals,
+1216,Reverse-grip cable straight-bar push-down,Triceps,Cable
+1217,Seated cable deadlift,Lower Back,Cable
+1218,Hanging Windshield Wiper,Abdominals,None
+1219,Deadlift - Gethin Variation,Lower Back,Barbell
+1220,Incline Dumbbell Fly - Gethin Variation,Chest,Dumbbell
+1221,Decline Barbell Triceps Extension - Gethin Variation,Triceps,Barbell
+1222,Dumbbell seal row,Lats,Dumbbell
+1223,Back Flyes - Gethin Variation,Lats,Other
+1224,TRX Pendulum,Abdominals,
+1225,Bodyweight Squat - Gethin Variation,Quadriceps,Body Only
+1226,FYR Alternating Lunge,Quadriceps,Body Only
+1227,Seated Hamstring Curl - Gethin Variation,Hamstrings,Machine
+1228,Assist machine triceps push-down,Triceps,Machine
+1229,Close push-up,Chest,Body Only
+1230,Bent-Over Barbell Row - Gethin Variation,Middle Back,Barbell
+1231,Roman Chair Side Ups,Abdominals,Body Only
+1232,Hamstring Contraction,Hamstrings,
+1233,Rope Lat Pull-down - Gethin Variation,Lats,Cable
+1234,One-Arm Cable Crossover - Gethin Variation,Chest,Cable
+1235,Glute-Ham Raise - Gethin Variation,Glutes,Body Only
+1236,Leg Extensions - Gethin Variations,Abdominals,
+1237,Dumbbell bench press-,Chest,Dumbbell
+1238,Machine Shrug - Gethin Variation,Traps,Machine
+1239,Lower Back Stretch - Yates Variation,Lower Back,Body Only
+1240,Kneeling Cable Triceps Extension - Gethin Variation,Triceps,Cable
+1241,One-Arm Cable Read Delt Fly - Gethin Variation,Middle Back,Cable
+1242,Decline dumbbell fly and press,Chest,Dumbbell
+1243,Push-Up Roll Out - Gethin Variation,Abdominals,Body Only
+1244,Lying cable leg curl,Hamstrings,Cable
+1245,Incline straight-arm pull-over,Lats,Other
+1246,Single-leg lying leg curl,Hamstrings,Machine
+1247,Supine Two-Arm Overhead Throw,Abdominals,
+1248,Single-arm dumbbell skullcrusher,Triceps,Dumbbell
+1249,Smith machine front squat,Quadriceps,Machine
+1250,Cable stiff-legged deadlift,Lower Back,Cable
+1251,Machine Deadlift - Gethin Variation,Quadriceps,Machine
+1252,Lying high-cable biceps curl,Biceps,Cable
+1253,BOSU cross-body crunch,Abdominals,Exercise Ball
+1254,Single-arm machine preacher curl,Biceps,Machine
+1255,Standing cable leg curl,Hamstrings,Cable
+1256,Incline dumbbell fly and press,Chest,Dumbbell
+1257,Leg curl,Hamstrings,Machine
+1258,Single-arm bent-over rear delt fly,Abdominals,Other
+1259,Cable Overhead Triceps Extension - Gethin Variation,Triceps,Cable
+1260,Incline dumbbell biceps curl,Biceps,Bands
+1261,Single-Arm Bent-Over Rear Delt Raise - Gethin Variation,Middle Back,Other
+1262,Incline Cable Fly - Gethin Variation,Chest,Cable
+1263,Captain's chair leg raise,Abdominals,Other
+1264,Standing band biceps curl,Biceps,Barbell
+1265,Chest-Supported Smith Machine Row - Gethin Variation,Lats,Machine
+1266,Single-leg hack squat,Quadriceps,Machine
+1267,Machine bench press,Chest,Machine
+1268,Rack Pull - Gethin Variation,Lower Back,Other
+1269,Narrow-stance hack squat,Quadriceps,Machine
+1270,Reverse-grip dumbbell curl,Biceps,Dumbbell
+1271,Smith machine close-grip bench press-,Triceps,Machine
+1272,Cable Cross-Over - Gethin Variation,Chest,Cable
+1273,Machine crunch,Abdominals,Machine
+1274,Dumbbell Crunch - Gethin Variation,Abdominals,Dumbbell
+1275,Band Standing Abductions,Abdominals,
+1276,Seated cable chest fly,Chest,Cable
+1277,Exercise Ball Knee Tuck - Gethin Varation,Abdominals,Exercise Ball
+1278,Bodyweight Walking Lunge - Gethin Variation,Quadriceps,Body Only
+1279,Shoulder-Elevated One-Leg Hip Thrusts,Abdominals,Other
+1280,Cross-Body Crunch - Gethin Variation,Abdominals,Body Only
+1281,Squat Press - Gethin Variation,Quadriceps,
+1282,Single-arm decline dumbbell bench press,Chest,Dumbbell
+1283,Decline leg lift with twist,Abdominals,Body Only
+1284,Bent-Over Reverse Cable Fly,Abdominals,Cable
+1285,Front-To-Back Barbell Squat,Quadriceps,Barbell
+1286,Dumbbell pull-over,Traps,Dumbbell
+1287,Hanging Leg Raise - Variation Gethin,Abdominals,Body Only
+1288,Single-arm incline dumbbell bench press,Chest,Dumbbell
+1289,Hex Bar Deadlift - Gethin Variation,Lower Back,Other
+1290,Butterfly crunch,Abdominals,Body Only
+1291,Incline Dumbbell Curl - Gethin Variation,Biceps,Dumbbell
+1292,Alternating Single-Leg Curl - Gethin Variation,Quadriceps,Machine
+1293,High-Pulley Cable Curl - Gethin Variation,Biceps,Cable
+1294,Rope Climb Crunch,Abdominals,
+1295,Cross-body mountain climber,Abdominals,Body Only
+1296,Reverse-Grip Cable Triceps Pushdown - Gethin Variation,Triceps,Cable
+1297,Straight-Arm Pull-Down - Gethin Variation,Lats,Cable
+1298,Stiff-Legged Deadlift - Gethin Variation,Quadriceps,Machine
+1299,Lunge glute stretch,Glutes,Body Only
+1300,Standing hamstring stretch,Hamstrings,Body Only
+1301,Leg Extension - Gethin Variation,Hamstrings,Machine
+1302,Close-Grip EZ-Bar Curl - Gethin Variation,Biceps,Barbell
+1303,Standing Dumbbell Shrug - Gethin Variation,Traps,Dumbbell
+1304,Single-arm dumbbell row,Traps,Dumbbell
+1305,Standing High Cable Curl - Gethin Variation,Biceps,Cable
+1306,Dumbbell Seal Row - Gethin Variation,Middle Back,Dumbbell
+1307,Double-bar roll-out chest fly,Chest,Other
+1308,Single-leg leg extension-,Hamstrings,Machine
+1309,Standing Cable Crunch - Gethin Variation,Abdominals,Cable
+1310,Band-assisted chin-up,Middle Back,Bands
+1311,Hammer curl,Biceps,Dumbbell
+1312,High-cable standing row,Lats,Cable
+1313,Single-arm machine high row,Lats,Machine
+1314,Incline Dumbbell Row - Gethin Variation,Lats,Dumbbell
+1315,Incline Dumbbell Press - Gethin Variation,Chest,Dumbbell
+1316,Seated Dumbbell Curl - Gethin Variation,Biceps,Dumbbell
+1317,Crunch,Abdominals,Bands
+1318,Football Up-Down,Quadriceps,Body Only
+1319,Flat Bench Lying Leg Raise - Gethin Variation,Abdominals,Body Only
+1320,FYR Bent-Over Dumbbell Row,Lats,Dumbbell
+1321,Single-arm landmine pull and press,Abdominals,Barbell
+1322,Machine Pull-Over - Gethin Variation,Lats,Machine
+1323,Dumbbells-together incline bench press,Triceps,Dumbbell
+1324,Dumbbell Hammer Curl - Gethin Variation,Biceps,Dumbbell
+1325,Banded biceps curl in squat position,Biceps,Bands
+1326,Smith machine single-arm shrug,Traps,Machine
+1327,Cable Triceps Extension - Gethin Variation,Triceps,Cable
+1328,Lying leg lift,Abdominals,Body Only
+1329,Single-Leg Press - Gethin Variation,Quadriceps,Machine
+1330,Single-arm incline triceps extension,Triceps,Cable
+1331,Machine triceps extension-,Triceps,Other
+1332,Hack squat-,Quadriceps,Machine
+1333,Hyperextension - Gethin Variation,Lower Back,Body Only
+1334,Kickflip Hoppdey-Wop,Abdominals,Curl Bar
+1335,Machine Triceps Extension - Gethin Variation,Triceps,Machine
+1336,Squat Bottom Position Hold,Quadriceps,Other
+1337,Ab Twist - Gethin Variation,Abdominals,Other
+1338,High Cable Curls,Biceps,Cable
+1339,Machine preacher curl,Biceps,Machine
+1340,Machine Seated Chest Press - Gethin Variation,Chest,Machine
+1341,Lat Pull-down - Gethin Variation,Lats,Cable
+1342,Band good morning-,Lower Back,Bands
+1343,Banded Hammer Press - Gethin Variation,Biceps,Bands
+1344,Bench Dips - Gethin Variation,Triceps,Body Only
+1345,Decline dumbbell chest fly,Middle Back,Dumbbell
+1346,Incline dumbbell overhead triceps extension,Triceps,Dumbbell
+1347,Overhead Machine Triceps Extension - Gethin Variation,Triceps,Machine
+1348,Hanging alternating single-leg raise,Abdominals,Body Only
+1349,Barbell Lunge - Gethin Variation,Quadriceps,Barbell
+1350,Triceps Overhead Extension with Rope - Gethin Variation,Triceps,Cable
+1351,Medicine ball pass,Abdominals,Medicine Ball
+1352,Single-arm seated dumbbell curl,Biceps,Dumbbell
+1353,Wide-Grip Lat Pull-Down - Gethin Variation,Lats,Cable
+1354,Natural Glute Ham Raise - Gethin Variation,Glutes,Body Only
+1355,Seated Machine Row - Gethin Variation,Lats,Machine
+1356,Partner medicine ball sit-up,Abdominals,Medicine Ball
+1357,Smith machine lunge squat,Quadriceps,Machine
+1358,Dumbbell deadlift,Quadriceps,Dumbbell
+1359,Plank Walk,Abdominals,Body Only
+1360,Seated cable biceps curl,Biceps,Cable
+1361,Barbell Ab Roll Out - Gethin Variation,Abdominals,Barbell
+1362,Lying Close-Grip Bar Curl On High Pulley - Gethin Variation,Biceps,Cable
+1363,Banded dip,Triceps,Body Only
+1364,Sit-Up - Gethin Variation,Abdominals,Body Only
+1365,Rack Deadlift - Gethin Variation,Quadriceps,Barbell
+1366,Single-arm dumbbell crunch,Abdominals,Dumbbell
+1367,TRX Squat Jump,Quadriceps,Other
+1368,Cable Single-Leg Stiff-Legged Curl - Gethin Variation,Abdominals,
+1369,Plank Push-Up,Abdominals,Body Only
+1370,Reverse lunge,Hamstrings,Body Only
+1371,Single-leg cable stiff-legged deadlift,Lower Back,Cable
+1372,Stiff-Legged Dumbbell Deadlift - Gethin Variation,Lower Back,Dumbbell
+1373,Alternating Exercise Ball Knee Tucks - Gethin Variation,Abdominals,Exercise Ball
+1374,Smith machine weighted push-up,Chest,Machine
+1375,Groiner,Glutes,Body Only
+1376,Pull-up - Gethin Variation,Biceps,Body Only
+1377,Decline crunch-,Abdominals,Body Only
+1378,Single-arm barbell bent-over row,Lats,Barbell
+1379,Decline Dumbbell Leg Curl,Glutes,
+1380,Dumbbell Chest Press - Gethin Variation,Chest,Dumbbell
+1381,TBS Bent-Over Dumbbell Row,Middle Back,Dumbbell
+1382,Barbell Squat - Gethin Variation,Quadriceps,Barbell
+1383,Alternating lying leg raise,Abdominals,Body Only
+1384,Smith machine incline bench press-,Chest,Machine
+1385,Decline leg lift,Abdominals,Body Only
+1386,Hack Squat - Gethin Variation,Quadriceps,Machine
+1387,Cable rope push-down,Triceps,Cable
+1388,Crunch - Gethin Variation,Abdominals,Body Only
+1389,Seated Quad Contraction,Quadriceps,Body Only
+1390,Machine high row,Lats,Other
+1391,Push-Up - Gethin Variation,Chest,Body Only
+1392,Lying Hamstring Curls - Gethin Variation,Hamstrings,Machine
+1393,Standing Cable Curl - Gethin Variation,Biceps,Cable
+1394,Lying Cable Curl - Gethin Variation,Biceps,Dumbbell
+1395,Dumbbell Floor Press - Gethin Variation,Chest,Dumbbell
+1396,Behind-The-Neck Pull-Down - Gethin Variation,Lats,Cable
+1397,Barbell spider curl,Biceps,Other
+1398,Smith machine decline bench press,Chest,Machine
+1399,Weighted Crunch - Gethin Variation,Abdominals,Other
+1400,Barbell Good Morning - Gethin Variation,Quadriceps,Barbell
+1401,Dumbbell biceps curl,Biceps,Dumbbell
+1402,Plank - Gethin Variation,Abdominals,Body Only
+1403,Single-arm incline cable cross-over-,Chest,Cable
+1404,Landmine squat,Quadriceps,Other
+1405,Straight-Arm Dumbbell Pull-Over - Gethin Variation,Lats,Dumbbell
+1406,Back Extension - Gethin Variation,Lower Back,Body Only
+1407,Sissy squat,Quadriceps,None
+1408,Dumbbell Bulgarian split squat,Quadriceps,Other
+1409,Decline Dumbbell Press - Gethin Variation,Chest,Dumbbell
+1410,Cable straight-bar push-down,Triceps,Cable
+1411,Leg Press - Gethin Variation,Quadriceps,Machine
+1412,Bent-Over Dumbbell Row - Gethin Variation,Lats,Dumbbell
+1413,Bench Dip - Gethin Variation,Triceps,Body Only
+1414,Single-arm stiff-legged deadlift,Quadriceps,Dumbbell
+1415,Single-Arm Cable Row - Gethin Variation,Lats,Cable
+1416,Barbell floor wiper,Abdominals,Body Only
+1417,Ab Wheel Roll-Out - Gethin Variation,Abdominals,Other
+1418,Smith machine drag curl,Biceps,Machine
+1419,Prison Push-Up,Abdominals,Body Only
+1420,Barbell forehead curl,Biceps,Other
+1421,Speed Box Squat,Quadriceps,Bands
+1422,Exercise Ball Oblique Crunch,Abdominals,Exercise Ball
+1423,Bird Dog,Abdominals,
+1424,McGill Modified Curl-Up,Abdominals,Body Only
+1425,Cross-body toe-touch,Abdominals,Body Only
+1426,Toy soldier,Abdominals,Body Only
+1427,Wide-Grip Machine Row,Lats,Machine
+1428,Scapular Rows,Lats,Cable
+1429,Standing V-Grip Cable Rows,Lats,Cable
+1430,Double Arm Cable Biceps Curl,Biceps,Cable
+1431,Seated Dumbbell Overhead Triceps Press,Triceps,Dumbbell
+1432,Seated Biceps Hammer Curl,Biceps,Dumbbell
+1433,Natural Glute Ham Raise with Stability Ball,Abdominals,Body Only
+1434,Lateral ape,Abdominals,Body Only
+1435,Hollow-body knee tuck,Abdominals,Body Only
+1436,FYR Dumbbell Overhead Hold,Abdominals,
+1437,Seated Barbell Curl,Biceps,Barbell
+1438,HM Squat with Alternating Leg Extension,Quadriceps,Body Only
+1439,HM Air Jumping Rope,Abdominals,Body Only
+1440,HM Air Squat,Quadriceps,Body Only
+1441,HM Alternating Bent-Over Quick Row,Middle Back,Dumbbell
+1442,HM Alternating Cross Lunge,Hamstrings,Body Only
+1443,HM Alternating Donkey Kick,Glutes,Body Only
+1444,HM Alternating Front Kick,Hamstrings,Body Only
+1445,HM Alternating Dumbbell Plank Row,Abdominals,Dumbbell
+1446,HM Alternating Jump Lunge,Quadriceps,Body Only
+1447,HM World's Greatest Stretch,Hamstrings,Body Only
+1448,HM Straddle Stretch,Abductors,Body Only
+1449,HM Alternating Lunge Reach,Abdominals,Body Only
+1450,HM Alternating Lunge-In-Place,Quadriceps,Body Only
+1451,HM Alternating Reverse Lunge With Biceps Curl,Biceps,Dumbbell
+1452,HM Alternating Side Lunge,Quadriceps,Body Only
+1453,HM Sumo Pulse,Quadriceps,Body Only
+1454,HM Sumo Squat,Quadriceps,Body Only
+1455,HM Alternating Side Plank Reach,Abdominals,Body Only
+1456,HM Superman Lat Pull,Lats,Body Only
+1457,HM Alternating Side-Kick,Quadriceps,Body Only
+1458,HM Alternating Slow Step-Down With Chair,Glutes,Body Only
+1459,HM Alternating Sprawl Kick-Through,Hamstrings,Body Only
+1460,HM Superman Plank,Abdominals,Body Only
+1461,HM Alternating Step-Back,Hamstrings,Body Only
+1462,HM Table Pose,Abdominals,Body Only
+1463,HM Alternating Step-Up With Chair,Hamstrings,Body Only
+1464,HM Toe Touch,Abdominals,Body Only
+1465,HM Tuck-Up Burpee,Quadriceps,Body Only
+1466,HM Angel Stretch,Middle Back,Body Only
+1467,HM Banana Stretch,Lower Back,Body Only
+1468,HM Banded Cross-Over Pull,Chest,Bands
+1469,HM Banded Squat Toe Tap,Quadriceps,Bands
+1470,HM Bear Crawl,Quadriceps,Body Only
+1471,HM Bear Stance Fire Hydrant,Quadriceps,Body Only
+1472,HM Turkish Get-Up,Quadriceps,Kettlebells
+1473,HM Up Dog Pose,Abdominals,Body Only
+1474,HM T-Spine Stretch on Wall,Lower Back,Body Only
+1475,HM Walking Frankenstein,Quadriceps,Body Only
+1476,HM Walking Hip Stretch,Quadriceps,Body Only
+1477,HM Wide Jump Squat,Quadriceps,Body Only
+1478,HM Right Leg Swing,Abductors,Body Only
+1479,HM Right Side Bird-Dog,Abdominals,Body Only
+1480,HM Bent-Over Dumbbell Row,Middle Back,Dumbbell
+1481,HM Right Side Crunch,Abdominals,Body Only
+1482,HM Right Side Iron Cross,Glutes,Body Only
+1483,HM Bicycle,Abdominals,Body Only
+1484,HM Bird-Dog Plank,Abdominals,Body Only
+1485,HM Boat Pose,Abdominals,Body Only
+1486,HM Right Side-Kick,Abductors,Body Only
+1487,HM Bottoms Up,Abdominals,Body Only
+1488,HM Running in Place,Glutes,
+1489,HM Boxer Shuffle,Quadriceps,Body Only
+1490,HM Bridge,Abdominals,Body Only
+1491,HM Running Lunge,Quadriceps,Body Only
+1492,HM Bulgarian Split Squat On Chair,Quadriceps,Body Only
+1493,HM Burpee,Quadriceps,Body Only
+1494,HM Running Man Crunch,Abdominals,Body Only
+1495,HM Butterfly,Quadriceps,Body Only
+1496,HM Alternating Lunge Push-Up,Quadriceps,Body Only
+1497,HM Seated Twist,Abdominals,Body Only
+1498,HM Side-Bend Pose,Abdominals,Body Only
+1499,HM Chair Dip,Triceps,Body Only
+1500,HM Child's Pose,Lower Back,Body Only
+1501,HM Side-Plank Arm Wrap,Abdominals,Body Only
+1502,HM Cobra,Lower Back,Body Only
+1503,HM Side-Plank with Hip Touch,Abdominals,Body Only
+1504,HM Cobra With Arm Retraction,Lower Back,Body Only
+1505,HM Side-Plank with Kick,Abdominals,Body Only
+1506,HM Comet,Quadriceps,Body Only
+1507,HM Couch Stretch,Quadriceps,Body Only
+1508,HM Side V-Up,Abdominals,Body Only
+1509,HM Single-Leg Bridge,Glutes,Body Only
+1510,HM Crab Crunch,Abdominals,Body Only
+1511,HM Cross-Over Crunch,Abdominals,Body Only
+1512,HM Crunch Pulse,Abdominals,Body Only
+1513,HM Dead Bug,Abdominals,Body Only
+1514,HM Dive-Bomber,Lower Back,Body Only
+1515,HM Down Up,Quadriceps,Body Only
+1516,HM Downward-Facing Dog Pose,Lower Back,Body Only
+1517,HM Single-Leg Inchworm,Abdominals,Body Only
+1518,HM Downward Dog To Left Leg Extension To Warrior Pose,Lower Back,Body Only
+1519,HM Downward Dog To Right Leg Extension To Warrior Pose,Lower Back,Body Only
+1520,HM Duck Walk,Quadriceps,Body Only
+1521,HM Dumbbell Overhead Squat,Quadriceps,Dumbbell
+1522,HM Dumbbell Squat,Quadriceps,Dumbbell
+1523,HM Floor Jack,Abdominals,Body Only
+1524,HM Floor Wiper,Abdominals,Body Only
+1525,HM Floor Kick,Abdominals,Body Only
+1526,HM Fragon,Quadriceps,Body Only
+1527,HM Frankenstein,Quadriceps,Body Only
+1528,HM Single-Leg Romanian Deadlift,Quadriceps,Kettlebells
+1529,HM Single-Leg Squat on Chair,Quadriceps,Body Only
+1530,HM Single-Leg Touchdown,Quadriceps,Body Only
+1531,HM Sit-Up,Abdominals,Body Only
+1532,HM Slow Mountain Climber,Abdominals,Body Only
+1533,HM Slow Sit-Up,Abdominals,Body Only
+1534,HM Speed Skater,Quadriceps,Body Only
+1535,HM Spine Twist,Lower Back,Body Only
+1536,HM Squat Jump,Quadriceps,Body Only
+1537,HM Squat Lunge,Quadriceps,Body Only
+1538,HM Frog Stretch,Abductors,Body Only
+1539,HM Garland Pose,Quadriceps,Body Only
+1540,HM Good Morning,Lower Back,Body Only
+1541,HM Half-Up,Abdominals,Body Only
+1542,HM Right Knee-Up,Hamstrings,Body Only
+1543,HM High Knees,Quadriceps,Body Only
+1544,HM Hi-Low,Glutes,Body Only
+1545,HM Hollow-Body Pulse,Abdominals,Body Only
+1546,HM Hollow Hold,Abdominals,Body Only
+1547,HM Inchworm,Abdominals,Body Only
+1548,HM Incline Push-Up On Chair,Chest,Body Only
+1549,HM In-And-Out Squat,Quadriceps,Body Only
+1550,HM In-And-Out Squat Jump,Quadriceps,Body Only
+1551,HM Jumping Jack,Quadriceps,Body Only
+1552,HM Jumping Knee-Up,Quadriceps,Body Only
+1553,HM Jumping Rope,Quadriceps,Body Only
+1554,HM Kettlebell Swing,Lower Back,Kettlebells
+1555,HM Right Side Hollow Hold with Pulse,Abdominals,Body Only
+1556,HM Right Calf-Spike Sumo Pulse,Quadriceps,Body Only
+1557,HM Reverse Lunge with Kick,Quadriceps,Body Only
+1558,HM Reverse Crunch with Frisbee,Abdominals,Body Only
+1559,HM Kick-Back,Glutes,Body Only
+1560,HM Kick-Out,Abductors,Body Only
+1561,HM Left Knee-Up,Quadriceps,Body Only
+1562,HM Left Leg Swing,Adductors,Body Only
+1563,HM Left Side Bird-Dog,Abdominals,Body Only
+1564,HM Left Side Crunch,Abdominals,Body Only
+1565,HM Left Side Hollow Hold With Pulse,Abdominals,Body Only
+1566,HM Left Side Iron Cross,Glutes,Body Only
+1567,HM Left Side-Kick,Glutes,Body Only
+1568,HM Monster Walk,Glutes,Bands
+1569,HM Reverse Crunch,Abdominals,Body Only
+1570,HM Left-Leg Lunge And Kick-Out,Quadriceps,Body Only
+1571,HM Rag Doll,Lower Back,Body Only
+1572,HM Low Lunge With External Twist,Hamstrings,Body Only
+1573,HM Push-Up,Chest,Body Only
+1574,HM Push-Plank,Chest,Body Only
+1575,HM Low Lunge With External Twist And Arm Reach,Abdominals,Body Only
+1576,HM Mountain Climber,Abdominals,Body Only
+1577,HM Mountain Pose,Quadriceps,Body Only
+1578,HM Ninja Crawl,Hamstrings,Body Only
+1579,HM Prison Sit-Up,Abdominals,Body Only
+1580,HM Pigeon Stretch,Hamstrings,Body Only
+1581,HM Plank Alternating Hip-Dip,Abdominals,Body Only
+1582,HM Upward-Facing Dog Pose,Lower Back,Body Only
+1583,HM Tuck-Up Get-Up,Abdominals,Body Only
+1584,HM Butt Kickers,Quadriceps,Body Only
+1585,HM Right-Leg Lunge And Kick-Out,Quadriceps,Body Only
+1586,HM Flutter Kick,Abdominals,Body Only
+1587,HM Sumo Get-Up,Quadriceps,Body Only
+1588,HM Leg Lifts,Glutes,Body Only
+1589,HM Plank,Abdominals,Body Only
+1590,AM Wide Grip Lat Pull Down,Lats,
+1591,Walking lunge,Glutes,Body Only
+1592,AM Standing Barbell Curl,Biceps,Barbell
+1593,Hindu Push-Up,Abdominals,
+1594,Hercules Chin-Up,Abdominals,
+1595,Bodyweight Triceps Extension,Abdominals,
+1596,McGill Pull-Up,Abdominals,Body Only
+1597,Head nod,Abdominals,
+1598,AM Skullcrusher,Triceps,Barbell
+1599,AM Leg Press,Quadriceps,Machine
+1600,AM Hammer Curls,Biceps,Dumbbell
+1601,AM T-Bar Row,Lats,Other
+1602,Leg extension,Quadriceps,Machine
+1603,AM Leg Lift,Abdominals,Body Only
+1604,AM Barbell Squat,Quadriceps,Barbell
+1605,Single-arm triceps kick-back,Glutes,Dumbbell
+1606,Dumbbell chest fly,Chest,Dumbbell
+1607,AM Flat Bench Barbell Press,Chest,Barbell
+1608,AM Seated Hammer Curls,Biceps,Dumbbell
+1609,AM Pec Dec,Chest,Machine
+1610,Machine rear delt fly,Chest,Dumbbell
+1611,AM Seated Hamstring Curl,Hamstrings,Machine
+1612,Straight-arm bar pull-down,Triceps,Cable
+1613,AM Ab Machine,Abdominals,Machine
+1614,AM Chest Dips,Chest,Body Only
+1615,AM Close-Grip Pull-Down,Lats,Cable
+1616,AM Decline Abs,Abdominals,Body Only
+1617,AM Jump Squat,Quadriceps,Body Only
+1618,AM Cable Crunch,Abdominals,Cable
+1619,High-to-low cable chest fly,Chest,Cable
+1620,AM Rope Triceps Pushdown,Triceps,Cable
+1621,AM Bar Triceps Push-Down,Triceps,Cable
+1622,EZ-bar preacher curl,Biceps,Barbell
+1623,AM Single Arm Row,Middle Back,Dumbbell
+1624,AM Pull-Up,Lats,Body Only
+1625,AM Wide-Grip Pull-Down,Lats,Cable
+1626,Push-up,Chest,Body Only
+1627,AM Bodyweight Squat,Quadriceps,Body Only
+1628,Bench crunch,Abdominals,Other
+1629,AM Ball Crunch,Abdominals,Exercise Ball
+1630,Bench dip,Triceps,Body Only
+1631,AM Dumbbell Bench Press,Chest,Dumbbell
+1632,Seated alternating biceps curl,Biceps,Dumbbell
+1633,Hanging crunch,Abdominals,Body Only
+1634,AM Cable Biceps Curl,Biceps,Cable
+1635,High knees sprawl drill,Quadriceps,Body Only
+1636,Medicine ball jumping jill,Quadriceps,Medicine Ball
+1637,Rusin Band Pull-Apart,Chest,Bands
+1638,Taylor Single-Arm Kettlebell Swing,Abdominals,Kettlebells
+1639,Taylor Single-Arm Kettlebell Front Squat,Quadriceps,Kettlebells
+1640,Taylor Bottoms-Up Single-Arm Kettlebell Press,Abdominals,Kettlebells
+1641,Taylor Plank Kettlebell Drag-Through,Abdominals,Kettlebells
+1642,Taylor Kettlebell Goblet Clean,Quadriceps,Kettlebells
+1643,Taylor Kettlebell Swing,Glutes,Kettlebells
+1644,Taylor Kettlebell Goblet Squat,Quadriceps,Kettlebells
+1645,Tyler Holt Hanging Toes-To-Bar,Abdominals,Body Only
+1646,Tyler Holt Weighted Knee-To-Chest Crunch,Abdominals,Cable
+1647,Plyometric Power Clean,Quadriceps,Barbell
+1648,Banded Split Jerk,Quadriceps,Barbell
+1649,High Plyometric Box Jump,Glutes,Body Only
+1650,UP Squat,Quadriceps,Barbell
+1651,UP Bench Press,Chest,Barbell
+1652,Barbell good morning,Lower Back,Barbell
+1653,UP Close-Grip Bench Press,Chest,Barbell
+1654,Barbell bent-over row,Middle Back,Barbell
+1655,UP Push-up,Chest,Body Only
+1656,Barbell hip thrust-,Glutes,Body Only
+1657,UP Conventional Deadlift,Lower Back,Barbell
+1658,Superman-,Lower Back,Body Only
+1659,UP Deficit Kettlebell Stiff-Legged Deadlift,Middle Back,Kettlebells
+1660,Goblet squat-,Quadriceps,Kettlebells
+1661,Side plank,Abdominals,Body Only
+1662,Bird dog-,Abdominals,Body Only
+1663,Single-leg curl up,Abdominals,Body Only
+1664,UP Incline Dumbbell Press,Chest,Dumbbell
+1665,UP Bulgarian Split Squat,Quadriceps,Body Only
+1666,Dumbbell stiff-legged deadlift,Middle Back,Dumbbell
+1667,Single-kettlebell windmill,Abdominals,Body Only
+1668,Bent-over dumbbell rear delt fly,Lats,Dumbbell
+1669,Alternating hammer curl,Biceps,Dumbbell
+1670,Alternating biceps curl,Biceps,Dumbbell
+1671,UP Incline Dumbbell Fly,Chest,Dumbbell
+1672,UP Hamstring Curl,Hamstrings,Machine
+1673,Standing EZ-bar curl,Biceps,E-Z Curl Bar
+1674,Single-arm bench dumbbell row,Middle Back,Dumbbell
+1675,UP Quad Extension,Quadriceps,Machine
+1676,UP Single-Leg Press,Quadriceps,Machine
+1677,UP Leg Press,Quadriceps,Machine
+1678,Rope overhead triceps extension,Triceps,Cable
+1679,Weighted back extension,Lower Back,Body Only
+1680,UP Cable Cross-Over,Chest,Cable
+1681,Single-arm cable biceps curl,Biceps,Cable
+1682,UP Rope Push-down,Triceps,Cable
+1683,UP Seated Cable Row,Middle Back,Cable
+1684,UP Cable Straight-Arm Pull-Down,Middle Back,Cable
+1685,UP Cable Fly,Chest,Cable
+1686,Cable rope pull-through deadlift,Glutes,Cable
+1687,UP Lat Pull-Down,Lats,Cable
+1688,UP Triceps Extension Straight-Bar Push-Down,Triceps,Cable
+1689,UP Cable Curl With Straight Bar,Biceps,Cable
+1690,UP Assisted Push-up,Chest,
+1691,UP Band Abducted Squat,Quadriceps,Bands
+1692,UP Chin-Up,Lats,Body Only
+1693,UP Front Lunge,Abdominals,
+1694,UP High-Bar Squat,Abdominals,
+1695,UP Incline Bench Press,Abdominals,
+1696,UP Sumo Deadlift,Middle Back,
+1697,UP Lat Pull-Over,Abdominals,
+1698,UP Pendlay Row,Abdominals,
+1699,UP Single-Leg Romanian Deadlift,Middle Back,
+1700,UP Pull-Up,Abdominals,
+1701,UP Push Press,Abdominals,
+1702,UP McGill Big 3,Abdominals,
+1703,UP Front Squat,Quadriceps,
+1704,Band Resisted Dumbbell Row,Lats,Dumbbell
+1705,Band-resisted plyometric box squat,Abdominals,
+1706,UN Band Assisted Pull-up Pronated,Lats,Bands
+1707,UN Barbell Rack Pull,Middle Back,Barbell
+1708,UN Band Assisted Pull-up Neutral,Lats,Bands
+1709,UN Band Assisted Pull-up Supinated,Lats,Bands
+1710,UN Barbell Back Squat,Quadriceps,Barbell
+1711,UN Barbell Box Squat,Quadriceps,Barbell
+1712,UN Barbell Front Squat,Quadriceps,Barbell
+1713,UN Barbell Scrape The Rack,Middle Back,Barbell
+1714,UN Bent-Over Dumbbell Row,Middle Back,Dumbbell
+1715,UN Cable Pull-Through,Middle Back,Cable
+1716,UN Cross-Body Carry,Abdominals,
+1717,UN Push-Up,Chest,Body Only
+1718,UN Dumbbell Farmer's Carry,Abdominals,Dumbbells
+1719,UN Dumbbell RDL,Middle Back,Dumbbell
+1720,UN Forward Lunge,Quadriceps,Body Only
+1721,UN Front Foot Elevated Split Squat,Quadriceps,Body Only
+1722,UN Front Racked Carry,Abdominals,
+1723,UN Glute Bridge,Glutes,Body Only
+1724,UN Half Kneeling Single-Arm Landmine Y Press,Abdominals,
+1725,UN Loaded Banded,Abdominals,
+1726,UN Chest Supported Row,Middle Back,Dumbbell
+1727,UN Single-Leg RDL,Hamstrings,
+1728,UN Reverse Lunge,Quadriceps,
+1729,UN Pull-Up Supinated,Biceps,Body Only
+1730,UN Pull-Up Pronated,Biceps,Body Only
+1731,UN Pull-Up Neutral,Biceps,Body Only
+1732,UN Rear Foot Elevated Split Squat,Glutes,Barbell
+1733,UN Goblet Squat,Glutes,Kettlebells
+1734,UN Landmine Row,Lower Back,
+1735,UN lateral Lunge,Abductors,
+1736,UN Non-Alternating Forward Walking Lunge,Glutes,
+1737,UN Slight Incline Barbell Bench Press,Chest,
+1738,UN High Angle Cable Row,Middle Back,
+1739,UNS Foam Roll Thigh,Abdominals,Body Only
+1740,UNS Single-arm barbell suitcase hold,Abdominals,
+1741,UNS Dual-handle low cable row,Abdominals,
+1742,UNS Slight decline single-arm dumbbell row,Abdominals,
+1743,UNS Slight incline dumbbell bench press,Abdominals,
+1744,UNS Barbell floor press,Abdominals,
+1745,UNS Cable half-kneeling face pull,Abdominals,
+1746,UNS Seal jack,Abdominals,
+1747,UNS Inverted row,Abdominals,Body Only
+1748,UNS Banded Push-Up,Chest,Bands
+1749,UNS Band pull-apart,Abdominals,
+1750,UNS Band face pull,Abdominals,
+1751,UNS Band over-and-back,Lower Back,Bands
+1752,UNS T-spine rotation with reach,Abdominals,Body Only
+1753,UNS Quadruped thoracic rotation,Abdominals,Body Only
+1754,UNS Pec stretch,Abdominals,Body Only
+1755,UNS Lat stretch,Abdominals,Body Only
+1756,UNS Foam Roll,Abdominals,Body Only
+1757,UNS Foam Roll Lats,Abdominals,Body Only
+1758,UNS Foam Roll Upper Back,Middle Back,Body Only
+1759,UNS Foam Roll Adductor,Adductors,Body Only
+1760,UNS Half-Kneeling Hip Flexor Stretch,Quadriceps,Body Only
+1761,UNS Rocking Adductor Stretch,Abdominals,Body Only
+1762,UNS Bird Dog,Abdominals,Body Only
+1763,UNS Banded Glute Bridge,Glutes,Bands
+1764,UNS Dumbbell Romanian Deadlift,Lower Back,Dumbbell
+1765,UNS Dumbbell Goblet Squat,Quadriceps,Dumbbell
+1766,UNS Cable Pull-Through,Glutes,Cable
+1767,UNS Jumping Jack,Abdominals,Body Only
+1768,UNS Low Depth Jump,Quadriceps,Body Only
+1769,UNS Foam Roll Pecs,Chest,Body Only
+1770,UNS Forward-To-Reverse Lunge,Quadriceps,Body Only
+1771,UNS Banded Dumbbell Romanian Deadlift,Lower Back,Cable
+1772,Ab wheel roll-out,Abdominals,Body Only
+1773,30 Barbell Floor Wiper,Abdominals,Barbell
+1774,30 Barbell Roll-Out,Abdominals,Barbell
+1775,Bench mountain climber,Abdominals,Body Only
+1776,Feet-elevated bench side plank,Abdominals,Body Only
+1777,30 Bosu Cable Reverse Crunch,Abdominals,Exercise Ball
+1778,Standing cable twist,Abdominals,Cable
+1779,Cross-body sit-up,Abdominals,Body Only
+1780,Decline band press sit-up,Abdominals,Bands
+1781,Decline kayak,Abdominals,Body Only
+1782,Decline plate sit-up twist,Abdominals,Other
+1783,30 Decline Reverse Crunch,Abdominals,Body Only
+1784,Decline sit-up twist,Abdominals,Body Only
+1785,Dumbbell straight-legged hip raise,Abdominals,Dumbbell
+1786,Decline plate sit-up,Abdominals,Barbell
+1787,Seated leg tuck with dumbbell,Abdominals,Dumbbell
+1788,Dumbbell V-sit cross jab-,Abdominals,Dumbbell
+1789,30 Flat Bench Leg Raise,Abdominals,Body Only
+1790,30 Flutter Kick,Abdominals,Body Only
+1791,Chin-up crunch,Abdominals,Body Only
+1792,30 Gorilla Chin Oblique Crunch,Abdominals,Body Only
+1793,Half Turkish get-up,Abdominals,Body Only
+1794,30 Hanging Oblique Crunch,Abdominals,Body Only
+1795,30 Windshield Wiper,Abdominals,
+1796,30 Hollow-Body Hold,Abdominals,Body Only
+1797,Parallel bars knee raise,Abdominals,Body Only
+1798,BOSU knee tuck,Abdominals,Exercise Ball
+1799,30 Cable Rope Crunch,Abdominals,Cable
+1800,30 Cable Rope Oblique Crunch,Abdominals,Cable
+1801,30 Landmine Twist,Abdominals,Body Only
+1802,Parallel bars leg raise,Abdominals,Body Only
+1803,Cable lying twist on ball,Abdominals,Cable
+1804,Medicine ball Russian twist,Abdominals,Medicine Ball
+1805,30 Medicine Ball Slam,Abdominals,Medicine Ball
+1806,Otis-up-,Abdominals,Body Only
+1807,30 Cable Pallof Press,Abdominals,Cable
+1808,Reverse ab roll-out,Abdominals,Other
+1809,30 Seated Twist With PVC Pipe,Abdominals,Other
+1810,30 Shoulder Tap,Abdominals,Body Only
+1811,30 Side Plank On Ball,Abdominals,Exercise Ball
+1812,Smith machine V-up,Abdominals,Machine
+1813,30 Spider Crawl,Abdominals,Body Only
+1814,Spider crunch,Abdominals,Body Only
+1815,30 Standing Plate Twist,Abdominals,
+1816,Suspended crunch-,Abdominals,Other
+1817,Suspended oblique crunch,Abdominals,Other
+1818,Toe-touch,Abdominals,Body Only
+1819,30 Hanging Toes-To-Bar,Abdominals,Body Only
+1820,30 V-Up,Abdominals,Body Only
+1821,Weighted sit-up,Abdominals,Other
+1822,Medicine ball twist,Abdominals,Medicine Ball
+1823,30 Hanging Leg Raise With Dumbbell,Abdominals,Dumbbell
+1824,30 Standing Russian Twist,Abdominals,
+1825,Hanging exercise ball leg raise,Abdominals,Exercise Ball
+1826,Cocoon crunch,Abdominals,Body Only
+1827,Bench oblique crunch,Abdominals,Body Only
+1828,30 Cable Reverse Crunch On Ball,Abdominals,Cable
+1829,Standing Low-Cable Row - Abel Albonetti Version,Lats,Cables
+1830,30 Cable Reverse Crunch,Abdominals,Cable
+1831,Full moon-,Abdominals,Body Only
+1832,30 Decline Press Sit-Up,Abdominals,Other
+1833,UN Hands Elevated Push-Up,Chest,Body Only
+1834,Push-up to side plank,Abdominals,Body Only
+1835,Dumbbell Lying Hamstring Curl,Hamstrings,Dumbbell
+1836,Tyler Holt V-Up,Abdominals,Body Only
+1837,Tyler Holt Cable Torso Twist,Abdominals,Cable
+1838,Tyler Holt Plank,Abdominals,Body Only
+1839,Pop Squat On Leg Press,Quadriceps,Machine
+1840,Tyler Holt Hip-Dip,Abdominals,Body Only
+1841,Boat Pose,Abdominals,
+1842,Suicides,Abdominals,Body Only
+1843,Single-Leg Deadlift Walk,Hamstrings,Body Only
+1844,Dumbbell Crush Press,Triceps,Dumbbell
+1845,Single-Arm Dumbbell Snatch,Quadriceps,Dumbbell
+1846,Dumbbell Get-Up Sit-Up,Abdominals,Dumbbell
+1847,KV Barbell Hip Thrust,Abdominals,Barbell
+1848,KV Bulgarian Split Squat,Quadriceps,Barbell
+1849,KV Dumbbell Lunges,Quadriceps,Dumbbell
+1850,KV Cable Squat,Quadriceps,Cable
+1851,KV Cable Kick-Back,Abdominals,Cables
+1852,KV Romanian Deadlift with Kettlebell,Lower Back,Kettlebells
+1853,LD Cable One-Arm Upright Row,Triceps,Cable
+1854,Wide-Grip Barbell Incline Row,Abdominals,
+1855,Assisted Single-Arm Pull-Up,Lats,Other
+1856,Assisted Single-Arm Chin-Up,Lats,Other
+1857,Rhomboid Reverse Fly,Abdominals,
+1858,Holt Landmine Chest To Sit-Up,Abdominals,Landmine
+1859,Holt Landmine Bent-Over Row,Abdominals,
+1860,Holt Landmine Twist,Abdominals,
+1861,Holt Landmine Pull And Press,Abdominals,
+1862,Holt Landmine Lunge To Press,Abdominals,
+1863,Holt Landmine Burpee,Abdominals,
+1864,Holman Towel Reverse Plank Alternating Heel Pull-in,Abdominals,Other
+1865,Holman Towel Straight Plank Jack,Abdominals,Body Only
+1866,Holman Towel Hill Climber,Abdominals,Body Only
+1867,Holman Towel Squat Thrust,Quadriceps,Body Only
+1868,Holman Seal Drag to Push-Up,Chest,Body Only
+1869,Holman Towel Elbow Plank Jack,Abdominals,Body Only
+1870,Holman Towel Alternating Prisoner Squat,Quadriceps,Body Only
+1871,Holman Towel Elbow Plank Pike,Abdominals,Body Only
+1872,Holman Towel Straight Plank Hand Reach,Abdominals,Body Only
+1873,Holman Towel Wax-On Wax-Off,Abdominals,Body Only
+1874,Holman Towel Wide Hill Climber,Abdominals,Body Only
+1875,Holman Towel Alternating Lateral Lunge,Quadriceps,Body Only
+1876,Holman Towel Dirty Dog,Abdominals,Body Only
+1877,Holman Squat Pull-Through Jump,Quadriceps,Body Only
+1878,Holman Straight Plank Shoulder Tap,Abdominals,Body Only
+1879,Holman Donkey Kick,Glutes,Body Only
+1880,Holman Killer Abs,Abdominals,Body Only
+1881,Holman Straight Plank Split Jack,Abdominals,Body Only
+1882,Holman Elbow Plank Swim,Abdominals,Body Only
+1883,Holman 180 Jump,Quadriceps,Body Only
+1884,Holman Elbow Plank Saw,Abdominals,Body Only
+1885,Holman Foot-Elevated Knee-Up to Squat,Quadriceps,Body Only
+1886,Holman Feet-Elevated Squat Thrust,Quadriceps,Body Only
+1887,Holman Feet-Elevated Straight Plank Toe-Tap Series,Abdominals,Body Only
+1888,Holman Step Triceps Dip,Triceps,Body Only
+1889,Holman Hands-Elevated Lunge Jump,Quadriceps,Body Only
+1890,Holman Elbow Plank Pike Pull,Abdominals,Body Only
+1891,Holman Hands-Elevated Jack to Split Jump,Quadriceps,Body Only
+1892,Holman Foot-Elevated Knee-Up to Reverse Lunge,Quadriceps,
+1893,Holman Seated Knee Pull-In,Abdominals,
+1894,Holman Hand-Elevated Walk-Over Push-Up,Abdominals,Body Only
+1895,Holman Hands-Elevated Hill Climber,Abdominals,Body Only
+1896,Holman Seated Pike,Abdominals,Body Only
+1897,Holman Hand-Elevated Push-Up with Hand Row,Chest,Body Only
+1898,Holman Hands-Elevated Wide Squat Thrust,Quadriceps,Body Only
+1899,Holman Feet-Elevated Up-Down Plank,Abdominals,Body Only
+1900,Holman Feet-Elevated Hand Tap,Abdominals,Body Only
+1901,Holman Hands-Elevated Squat Thrust to Split Jack,Quadriceps,Body Only
+1902,Holman Reverse Straight Plank with Alternating Heel Pull-In,Abdominals,Body Only
+1903,Holman Squat Jump,Quadriceps,Body Only
+1904,Holman Deadlift,Lower Back,Other
+1905,Holman Squat to Biceps Curl,Quadriceps,Dumbbell
+1906,Holman Burpee to Biceps Curl,Quadriceps,Dumbbell
+1907,Holman Elbow Plank,Abdominals,Body Only
+1908,Holman Straight Plank Squat Thrust,Abdominals,Body Only
+1909,Holman Towel Alternating Prisoner Reverse Lunge,Quadriceps,Other
+1910,Holman Squat Pulse,Quadriceps,Body Only
+1911,Holman Alternating Single-Leg Pike,Abdominals,Body Only
+1912,Holman Knee Pull-In Crunch,Abdominals,Body Only
+1913,Holman Jump-Out Push-Up,Quadriceps,Body Only
+1914,Holman Alternating Forward Lunge,Quadriceps,Body Only
+1915,Holman Straight Plank with Hand Tap,Abdominals,Body Only
+1916,Holman Straight Plank with Dirty Dog,Abdominals,Body Only
+1917,Holman Burpee to Jump,Quadriceps,Body Only
+1918,Holman Elbow Plank Roll,Abdominals,Body Only
+1919,Holman Pilates Single-Leg Stretch,Quadriceps,Body Only
+1920,Holman Froggy Push-Up,Abdominals,Body Only
+1921,Holman Hip Raise with Alternating Kick,Glutes,Body Only
+1922,Holman Left Leg Donkey Kick,Glutes,Body Only
+1923,Holman Straight Plank Hand Tap to Shoulder Tap,Abdominals,Body Only
+1924,Holman In-Out Straight Plank,Abdominals,Body Only
+1925,Holman Weighted Burpee to Belly Touch,Quadriceps,Other
+1926,Holman Bicycle,Abdominals,Body Only
+1927,Holman Alternating Reverse Prisoner Lunge,Quadriceps,Body Only
+1928,Holman Diagonal Left Leg Step-Out to Left Knee-Up,Glutes,
+1929,Holman Diagonal Right Leg Step-Out to Right Knee-Up,Glutes,Body Only
+1930,Holman Narrow-Wide Squat Jump to 180 Jump,Quadriceps,Body Only
+1931,Holman Boat with Weighted Cross Punch,Abdominals,Other
+1932,Holman Alternating Diagonal Knee Pull-in,Abdominals,Body Only
+1933,Holman 180 Jump to Lunge,Quadriceps,Body Only
+1934,Holman Weighted Burpee to Front Punch,Quadriceps,Other
+1935,Holman Weighted Hook Punch,Abdominals,Other
+1936,Holman Weighted Traveling Punch,Abdominals,Other
+1937,Holman Imaginary Jump Rope,Quadriceps,Body Only
+1938,Holman Push-Up,Chest,Body Only
+1939,Holman Weighted Uppercut Punch,Abdominals,Other
+1940,Holman Elbow Plank with Step-Out,Abdominals,Body Only
+1941,Holman Fast Feet with Hands Up,Quadriceps,Body Only
+1942,Holman Weighted Low Squat Punch,Quadriceps,Other
+1943,Holman Weighted Hook Punch to Squat Thrust,Quadriceps,Other
+1944,Holman Right Leg Donkey Kick,Glutes,Body Only
+1945,Holman Hands-Elevated Alternating Lunge Jump,Quadriceps,Body Only
+1946,Holman Slow Deadlift,Lower Back,Dumbbell
+1947,Holman Alternating Slow L-Raise,Abdominals,Body Only
+1948,Holman Feet-Elevated Plank with Shoulder Tap,Abdominals,Body Only
+1949,Holman Slow Weighted Reverse Lunge,Quadriceps,Dumbbell
+1950,Holman Slow Hips-Up Chest Press,Chest,Body Only
+1951,Holman Butt Tap to Jump,Glutes,Body Only
+1952,Holman Slow Weighted Plie Squat,Quadriceps,Dumbbell
+1953,Holman Feet-Elevated Inchworm Pike to Straight Plank Push-Up,Abdominals,Body Only
+1954,Holman Slow Weighted Double Pike,Abdominals,Other
+1955,Holman Right Split Lunge,Quadriceps,Body Only
+1956,Holman Slow Biceps Curl,Biceps,Dumbbell
+1957,Holman Left Split Lunge,Quadriceps,Body Only
+1958,Holman Butt Tap to Jump-Forward-Jump-Back,Glutes,Body Only
+1959,Holman Plyometric Jump,Quadriceps,Body Only
+1960,Holman Feet-Elevated Up-Down Elbow Plank,Abdominals,Body Only
+1961,Holman Quad Touch Jump,Quadriceps,Body Only
+1962,Holman Feet-Elevated Plank Pike Pull,Abdominals,Body Only
+1963,Holman Chair Triceps Dip,Triceps,Body Only
+1964,Holman Skate,Quadriceps,Body Only
+1965,Holman Feet-Elevated Alternating Single-Leg Hip Raise,Abdominals,Body Only
+1966,Holman Lunge Jump,Quadriceps,Body Only
+1967,Holman Feet-Elevated Plank Pike Pull to Push-Up,Abdominals,Body Only
+1968,Holman Flying Squat Thrust,Quadriceps,Body Only
+1969,Holman Standing Heel Click,Abdominals,Body Only
+1970,Holman 90-Degree Jump,Quadriceps,Body Only
+1971,Holman Half Jack to 180 Jump,Quadriceps,Body Only
+1972,Holman Plate Straight Plank Reach,Abdominals,Other
+1973,Holman Plate Elbow Plank Jack to Straight Plank Jack,Abdominals,Other
+1974,Holman Plate Hill Climber,Abdominals,Other
+1975,Holman Plate Reverse Plank Hill Climber,Abdominals,Other
+1976,Holman Plate Straight Plank Pike to Jack,Abdominals,Other
+1977,Holman Plate In-and-Out Push-Up,Abdominals,Other
+1978,Holman Plate Dynamo Push-Up,Chest,Other
+1979,Holman Plate Burpee,Abdominals,Other
+1980,Holman Plate Elbow Plank Reach,Abdominals,Other
+1981,Holman Right Side Plank with Left Triceps Press,Abdominals,Dumbbell
+1982,Holman Straight Plank Right-Left Jack to Split Jack,Abdominals,Body Only
+1983,Holman Left Side Plank with Right Triceps Press,Abdominals,Dumbbell
+1984,Holman Quick Feet to Quad Touch Jump,Quadriceps,Body Only
+1985,Holman Traveling High Knees to Squat Thrust,Glutes,Body Only
+1986,Holman Butt Kicker to High Knees,Glutes,Body Only
+1987,Holman Elbow Plank Jack to Ninja Knees,Abdominals,Body Only
+1988,Holman Towel Alternating Side Lunge Squat,Quadriceps,Other
+1989,Holman Squat Thrust to Push-Up to Super Woman,Quadriceps,Body Only
+1990,Holman Jump-Out Push-Up with Hand Hop Back,Chest,Body Only
+1991,Holman Boat with Feet Push-Out and Overhead Press,Abdominals,Dumbbell
+1992,Holman Plyometric Jump to 180 Jump,Quadriceps,Body Only
+1993,Holman Standing Heel Click to Hands Down Heel Click,Quadriceps,Body Only
+1994,Holman Right Side Elbow Plank with Left Leg Swing,Abdominals,Body Only
+1995,Holman Burpee to 180 Jump,Quadriceps,Body Only
+1996,Holman Left Side Elbow Plank with Right Leg Swing,Abdominals,Body Only
+1997,Holman Deadlift to Overhead Press,Lower Back,Dumbbell
+1998,Holman Right Arm Weighted Half Jack,Lats,Dumbbell
+1999,Holman Right Leg Right Arm Weighted Pike,Abdominals,
+2000,Holman Left Arm Weighted Half Jack,Lats,Dumbbell
+2001,Holman Left Leg Left Arm Weighted Pike,Abdominals,
+2002,Holman Traveling Low Jack to Belly Touch,Quadriceps,Body Only
+2003,Holman Straight Plank with Alternating Diagonal Sit-Back,Abdominals,Body Only
+2004,Holman Hovering Plank Row,Abdominals,Dumbbell
+2005,Holman Weighted Lunge Jump with Biceps Curl,Quadriceps,Dumbbell
+2006,Holman Left Reverse Lunge Chest Press to Left Knee-Up Chest Press,Quadriceps,Dumbbell
+2007,Holman Weighted Lunge Jump with Chest Press,Quadriceps,Dumbbell
+2008,Holman Boat Press with Leg Extension,Abdominals,Body Only
+2009,Holman Weighted Half Jack to Biceps Curl,Quadriceps,Dumbbell
+2010,Holman Weighted Half Jack to Chest Press,Quadriceps,Dumbbell
+2011,Holman Lateral High Knees to Quad Touch Jump,Glutes,Dumbbell
+2012,Holman Shoulder Tap to Dirty Dog,Abdominals,Body Only
+2013,Holman Flying Squat Thrust to Shoulder Tap,Quadriceps,Body Only
+2014,Holman Squat Jump to Alternating Side Lunge Jump,Quadriceps,Body Only
+2015,Holman Standing Russian Twist,Abdominals,Body Only
+2016,Holman Low Squat with Low Diagonal Dumbbell Punch,Quadriceps,Body Only
+2017,Holman Right Leg Hop to Right Reverse Lunge,Quadriceps,Body Only
+2018,Holman Left Leg Hop to Left Reverse Lunge,Quadriceps,Body Only
+2019,Holman Weighted Seated Killer Abs to Russian Twist,Abdominals,Dumbbell
+2020,Holman Burpee to Open Stance,Quadriceps,Body Only
+2021,Holman Hovering Plank with Shoulder Tap,Abdominals,Body Only
+2022,Holman Froggy Push-Up to Donkey Kick,Chest,Body Only
+2023,Holman Elbow Plank to Stacked Plank Hip Drop,Abdominals,Body Only
+2024,Holman Elbow Plank to Walk-Up Pike,Abdominals,Body Only
+2025,Bodyweight Triceps Rope Press,Triceps,Body Only
+2026,Holman Renegade Row,Lats,Dumbbell
+2027,Holman Renegade Row with Opposite Foot Step-Out,Lats,Dumbbell
+2028,Holman Renegade Row to Weighted Burpee,Lats,Dumbbell
+2029,Holman Renegade Punch-Under,Lats,Other
+2030,Holman Renegade Row to Split Jump,Lats,Other
+2031,Holman Renegade Triceps Press,Triceps,
+2032,Holman Hill Climber,Abdominals,Body Only
+2033,Holman Hovering Renegade Row,Abdominals,
+2034,Holman Hovering Renegade Triceps Press,Triceps,Dumbbell
+2035,Holman Diagonal Squat Thrust to Renegade Forward Punch,Quadriceps,Body Only
+2036,Holman 180 Jump to Renegade Side Raise,Quadriceps,Dumbbell
+2037,Holman Right Reverse Lunge Biceps Curl to Right Knee-Up Biceps Curl,Quadriceps,Dumbbell
+2038,Holman Straight Plank Pike to Renegade Row,Abdominals,Body Only
+2039,Holman Dirty Dog to Renegade Row,Lats,Other
+2040,Holman Weighted Burpee to Renegade Side Punch,Quadriceps,Other
+2041,Holman Heavy Triceps Press to Overhead Press,Triceps,Dumbbell
+2042,Holman Elbow Plank to Renegade Row,Abdominals,Other
+2043,Holman Roll-Back to Squat Thrust to Renegade Row,Quadriceps,Dumbbell
+2044,Holman Roll-Back to Squat Thrust to Renegade Triceps Press,Quadriceps,Dumbbell
+2045,Holman Renegade Row to Side Punch to Forward Punch,Lats,Other
+2046,Holman Bear Crawl,Quadriceps,Body Only
+2047,Holman Alternating Hip Drop to Push-Up,Abdominals,Body Only
+2048,Holman Bear Crawl to Donkey Kick,Quadriceps,Body Only
+2049,Holman Push-Up to Sit Back,Chest,Body Only
+2050,Holman Bear Crawl to Froggy Push-Up,Quadriceps,Body Only
+2051,Holman Crab Kick,Abdominals,Body Only
+2052,Holman Wounded Bear Crawl,Abdominals,Body Only
+2053,Holman Alternating Crab Reach,Abdominals,Body Only
+2054,Holman Bear Crawl to Shoulder Tap,Quadriceps,Body Only
+2055,Holman Staggered-Stance Deadlift,Lower Back,Dumbbell
+2056,Holman Hovering Panther Core Stabilizer,Abdominals,Body Only
+2057,Holman Burpee to Forward Lunge,Abdominals,Body Only
+2058,Holman Seated Knee Pull-In Series,Abdominals,Body Only
+2059,Holman Burpee to Tuck Jump,Quadriceps,Body Only
+2060,Holman Weighted Reverse Lunge to Knee-Up Overhead Press,Quadriceps,Other
+2061,Holman Burpee to Flying Squat Thrust to Tuck Jump,Quadriceps,Body Only
+2062,Holman Elbow Plank Pike,Abdominals,Body Only
+2063,Holman Heavy Triceps Overhead Press,Triceps,Body Only
+2064,Holman Straight Plank Weighted Hand Hill Climber,Abdominals,Other
+2065,Holman Elbow Plank Jack to Straight Plank Split Jack,Abdominals,Body Only
+2066,Holman Forward Lunge to Reverse Lunge,Quadriceps,Body Only
+2067,Holman Lunge Jump with Overhead Press,Quadriceps,Other
+2068,Holman Boat Pull-Over,Abdominals,Body Only
+2069,Holman Squat Pulse to Plyometric Jump,Abdominals,Body Only
+2070,Holman Weighted Left Side Diagonal Pike,Abdominals,Other
+2071,Holman Weighted Right Side Diagonal Pike,Abdominals,Other
+2072,Holman Renegade Lunge Jump,Quadriceps,Body Only
+2073,Holman Weighted Burpee to Belly Touch to Standing T,Quadriceps,Other
+2074,Holman Weighted W-Boat to Overhead Press,Abdominals,Other
+2075,Holman Sit Back Push-Up,Chest,Body Only
+2076,Holman Squat Jump to Lunge Jump,Quadriceps,Body Only
+2077,Holman Prisoner Reverse Lunge,Quadriceps,Body Only
+2078,Holman Wide-to-Narrow Squat Jump,Quadriceps,Body Only
+2079,Holman Donkey Run,Quadriceps,Body Only
+2080,Holman Hands Down Heel Click,Abdominals,Body Only
+2081,Holman Weighted Kneeling Lift,Abdominals,Other
+2082,Holman Weighted Squat Jump,Quadriceps,Other
+2083,Holman Hips-Up Weighted Pull-Over,Abdominals,Other
+2084,Holman Weighted Narrow Squat Jump,Quadriceps,Dumbbell
+2085,Holman Weighted Wide-to-Narrow Squat Jump,Quadriceps,Body Only
+2086,Holman Diagonal Deadlift,Quadriceps,Dumbbell
+2087,Holman Straight Plank to Kick-Up,Abdominals,Body Only
+2088,Holman Daisy Cutter,Glutes,Body Only
+2089,Holman Wide-to-Narrow Donkey Kick,Quadriceps,Body Only
+2090,Holman Mule Kick,Quadriceps,Body Only
+2091,Holman Frogger,Glutes,Body Only
+2092,Holman Weighted Plie Squat,Quadriceps,Other
+2093,Holman Heels-Elevated Sissy Squat,Quadriceps,Other
+2094,Holman Straight Plank Dumbbell Reach-Under,Abdominals,Dumbbell
+2095,Holman Goal Post to Squat,Quadriceps,Body Only
+2096,Holman Weighted Cross Punch,Abdominals,Other
+2097,Holman Hip Raise with Chest Press,Glutes,Body Only
+2098,Holman Squat Jump to Overhead Press,Quadriceps,Other
+2099,Holman Straight-Leg Boat Hover Chest Press,Abdominals,Other
+2100,Holman Weighted Pike,Abdominals,Other
+2101,Holman 180 Jump to Overhead Press,Quadriceps,Other
+2102,Holman Straight-Arm Side Plank Overhead Press to Chest Press,Abdominals,Dumbbell
+2103,Holman Weighted Double-Arm Cross Punch,Lats,Dumbbell
+2104,Holman Hands-Elevated Split Jack,Abdominals,Body Only
+2105,Holman Feet-Elevated Plank Reach,Abdominals,Body Only
+2106,Holman Feet-Elevated Wax-On Wax-Off,Abdominals,Other
+2107,Holman Hand-Elevated Side Plank Semicircle,Abdominals,Body Only
+2108,Holman Hands-Elevated Straight Plank Pike,Abdominals,Body Only
+2109,Holman Kettlebell Squat Clean,Quadriceps,Kettlebells
+2110,Holman Kettlebell Swing,Quadriceps,Kettlebells
+2111,Holman Kettlebell Up to Elbow Down,Abdominals,Kettlebells
+2112,Holman Kettlebell Swing Transfer,Quadriceps,Kettlebells
+2113,Holman Weighted Burpee to Row,Quadriceps,Other
+2114,Holman Weighted Burpee to 180 Jump,Quadriceps,Other
+2115,Holman Weighted Burpee to Triceps Press,Quadriceps,Dumbbell
+2116,Holman Weighted Burpee to Pike,Abdominals,Dumbbell
+2117,Holman Alternating Staggered Push-Up,Chest,Body Only
+2118,Holman Foot-Up Diving Push-Up,Chest,Body Only
+2119,Holman Narrow Push-Up,Chest,Body Only
+2120,Holman Dynamo Push-Up,Chest,Body Only
+2121,Holman Jump to Push-Up,Chest,Body Only
+2122,Holman Deadlift to Front Raise,Lower Back,Dumbbell
+2123,Holman Deadlift to Chest Press,Lower Back,Dumbbell
+2124,Holman Deadlift to Squat Thrust,Lower Back,Dumbbell
+2125,Holman Deadlift to Biceps Curl,Lower Back,Dumbbell
+2126,Holman Alternating Rolling Elbow Plank,Abdominals,Body Only
+2127,Holman Elbow Plank Jack,Abdominals,Body Only
+2128,Holman Leg Pike,Abdominals,
+2129,Holman Squat Thrust to Alternating Knee-In,Abdominals,Body Only
+2130,Holman Supine Double Pike,Abdominals,Body Only
+2131,Holman Elbow Plank Alternating Pike,Abdominals,Body Only
+2132,Holman Seated Killer Abs,Abdominals,Body Only
+2133,Holman Elbow Plank to Towel Pike,Abdominals,Other
+2134,Holman Side Plank Hip Drop,Abdominals,Body Only
+2135,Holman Wide Hill Climber,Abdominals,Body Only
+2136,Holman Straight-Legged Bicycle,Abdominals,Body Only
+2137,Holman Frogger Squat to Heel Click,Quadriceps,Body Only
+2138,Holman Stair Toe Tap,Abdominals,Body Only
+2139,Holman Elbow Plank Ninja,Abdominals,Body Only
+2140,Holman Traveling Stair Climb Push-Up,Abdominals,Body Only
+2141,Holman Hands-Elevated Burpee,Abdominals,Body Only
+2142,Holman Stair Sprint,Quadriceps,Body Only
+2143,Holman Stair Bear Crawl,Quadriceps,Body Only
+2144,Holman Straight Plank Donkey Kick,Abdominals,Body Only
+2145,Holman Feet-Elevated Straight Plank Pike Pull,Abdominals,Body Only
+2146,Holman Towel Burpee,Abdominals,Body Only
+2147,Holman Elbow Plank to Alternating Side Plank Crunch,Abdominals,Body Only
+2148,Holman Straight-Legged Hip Raise,Abdominals,Body Only
+2149,Holman Feet-Elevated Hill Climber,Abdominals,Body Only
+2150,Holman Burpee to Flying Squat Thrust,Quadriceps,Body Only
+2151,Holman Straight-Legged Boat Chest Press,Abdominals,Dumbbell
+2152,Holman Standing Flat Back Row,Lats,Dumbbell
+2153,Holman Ninja Knee Hill Climber,Abdominals,Body Only
+2154,Holman Weighted 180 Jump,Quadriceps,Other
+2155,Holman Seated Killer Abs Overhead Press,Abdominals,Other
+2156,Holman Weighted Burpee to Side Delt Raise,Abdominals,Dumbbell
+2157,Holman Squat Thrust Overhead Press,Quadriceps,Dumbbell
+2158,Holman Flying Squat Thrust to Push-Up,Quadriceps,Body Only
+2159,Holman Foot-Elevated Push-Up,Chest,Body Only
+2160,Holman Foot-Elevated Step-To-Lunge,Quadriceps,Body Only
+2161,Holman Split Lunge,Quadriceps,Body Only
+2162,Holman Stair Climb,Quadriceps,Body Only
+2163,Holman Weighted Diagonal Pike,Abdominals,
+2164,Holman Right Straight Plank to Kick-Up,Abdominals,
+2165,Holman Weighted Burpee to Chest Press,Quadriceps,Dumbbell
+2166,Holman Burpee to Flying Jack,Quadriceps,Body Only
+2167,Holman Right Reverse Lunge,Quadriceps,Body Only
+2168,Holman Left Reverse Lunge,Quadriceps,Body Only
+2169,Holman Squat Tap to Hop,Quadriceps,Body Only
+2170,Holman Feet-Elevated Shoulder Tap,Abdominals,Body Only
+2171,Holman Feet-Elevated Hip Raise,Abdominals,Body Only
+2172,Holman Squat Tap to Jump-Forward-Jump-Back,Quadriceps,Body Only
+2173,Holman Left Hand Right Foot Crab Reach,Abdominals,Body Only
+2174,Holman Alternating Crab Flip to Froggy Push-Up to Kicks,Abdominals,Body Only
+2175,Holman Right Hand Left Foot Sleeping Crab,Abdominals,Body Only
+2176,Holman Left Hand Right Foot Sleeping Crab,Abdominals,Body Only
+2177,Holman Squat to Right-Arm Overhead Press,Quadriceps,Dumbbell
+2178,Holman Right Lunge Jump with Right Overhead Press,Quadriceps,Dumbbell
+2179,Holman Left Lunge Jump with Left Overhead Press,Quadriceps,Dumbbell
+2180,Holman Squat Hip Drive,Quadriceps,Body Only
+2181,Holman Heavy Hip Drive,Quadriceps,Dumbbell
+2182,Holman Squat to Left-Arm Overhead Press,Quadriceps,Dumbbell
+2183,Holman Alternating Double Lunge Hop,Quadriceps,Body Only
+2184,Holman Alternating Forward and Side Punch,Lats,Body Only
+2185,Holman Straight Plank with Alternating Leg Kick-Under,Abdominals,Body Only
+2186,Holman Weighted Lunge Jump to Floor Lunge Jump,Quadriceps,Dumbbell
+2187,Holman Right Reverse Lunge to Front Kick,Quadriceps,Body Only
+2188,Holman Right Hip Drop Push-Up,Abdominals,Body Only
+2189,Holman Right Leg Forward Lunge Hop,Quadriceps,Body Only
+2190,Holman Right Side Diagonal Burpee,Abdominals,Body Only
+2191,Holman Right Squat Thrust,Quadriceps,Body Only
+2192,Holman Left Reverse Lunge to Front Kick,Quadriceps,Body Only
+2193,Holman Left Hip Drop Push-Up,Abdominals,Body Only
+2194,Holman Left Leg Forward Lunge Hop,Quadriceps,Body Only
+2195,Holman Left Side Diagonal Burpee,Quadriceps,Body Only
+2196,Holman Left Diagonal Lunge to Overhead Press,Quadriceps,
+2197,Holman Left Squat Thrust,Quadriceps,Body Only
+2198,Holman Biceps Curl to Chest Punch,Biceps,Dumbbell
+2199,Holman Wide Squat Thrust,Quadriceps,Body Only
+2200,Holman Right Leg 7-Up Crunch,Abdominals,Body Only
+2201,Holman Left Leg 7-Up Crunch,Abdominals,Body Only
+2202,Holman Straight Plank Jack,Abdominals,Body Only
+2203,Holman Alternating Weighted Lunge Jump to Chest Press,Quadriceps,Dumbbell
+2204,Holman Feet-Elevated Couch Hill Climber,Abdominals,Body Only
+2205,Holman Feet-Elevated Push-Up,Chest,Body Only
+2206,Holman Feet-Elevated Right Side Plank,Abdominals,Body Only
+2207,Holman Alternating Up-Down Plank to Push-Up,Abdominals,Body Only
+2208,Holman Weighted Narrow-Mid-Wide Hop,Quadriceps,Other
+2209,Holman Right Arm Heavy Biceps Curl,Biceps,Dumbbell
+2210,Holman Left Arm Heavy Biceps Curl,Biceps,Dumbbell
+2211,Holman Alternating Knee Pull-In,Abdominals,
+2212,Holman Weighted Burpee to Overhead Alternating Reverse Lunge,Quadriceps,Dumbbell
+2213,Holman Alternating Single-Leg Hop to Squat to 180 Jump,Quadriceps,Body Only
+2214,Holman Straight Plank Alternating Weighted Open,Abdominals,Other
+2215,Holman Straight Plank Pike,Abdominals,Body Only
+2216,Holman Alternating Weighted Diagonal Burpee,Quadriceps,Other
+2217,Holman Overhead Weighted Triceps Press,Triceps,Other
+2218,Holman Right Lunge Hop to Chest Press,Quadriceps,Body Only
+2219,Holman Left Lunge Hop to Overhead Press,Quadriceps,Body Only
+2220,Holman Ninja Knee Straight Plank,Abdominals,Body Only
+2221,Holman 180 Jump Hop Forward Hop Back,Quadriceps,Body Only
+2222,Holman Reverse Crunch to Hip Raise,Abdominals,Body Only
+2223,Holman Weighted Killer Abs with Overhead Press,Abdominals,Other
+2224,Holman Couch Triceps Dip,Triceps,Body Only
+2225,Holman Straight Plank Quick Reach,Abdominals,Body Only
+2226,Holman Weighted 180 Jump to Chest Press,Quadriceps,Dumbbell
+2227,Holman Weighted Split-Leg Pike,Abdominals,Other
+2228,Holman Alternating Front Lunge Biceps Curl,Biceps,Dumbbell
+2229,Holman Alternating Diagonal Straight Plank,Abdominals,Body Only
+2230,Holman Alternating Side Squat Overhead Press,Quadriceps,Dumbbell
+2231,Holman Towel Drag Two Steps to Push-Up,Chest,Other
+2232,Holman Weighted Double-Time Biceps Curl,Biceps,Dumbbell
+2233,Holman Towel Burpee to Push-Up,Quadriceps,Other
+2234,Holman Right Split Squat,Quadriceps,Body Only
+2235,Holman Left Split Squat,Quadriceps,Body Only
+2236,Holman Feet-Elevated Left Side Plank,Abdominals,Body Only
+2237,Holman Right Hand Left Foot Crab Reach,Abdominals,Body Only
+2238,Holman Low-Impact Crab Kick,Abdominals,Body Only
+2239,Holman Alternating Crab Flip to Froggy Push-Up,Abdominals,Body Only
+2240,Holman High-Impact Crab Kick,Abdominals,Body Only
+2241,Holman Right Lunge with Right Biceps Curl,Quadriceps,Dumbbell
+2242,Holman Heavy Right Arm Biceps Curl,Biceps,Dumbbell
+2243,Holman Left Lunge with Left Biceps Curl,Quadriceps,Dumbbell
+2244,Holman Heavy Left Arm Biceps Curl,Biceps,Dumbbell
+2245,Holman Single-Leg Right Pike,Abdominals,Body Only
+2246,Holman Single-Leg Left Pike,Abdominals,Body Only
+2247,Holman Heavy Double Pike,Abdominals,Dumbbell
+2248,Holman Heavy Double Split Pike,Abdominals,Dumbbell
+2249,Holman Double Squat Pulse to 180 Jump,Quadriceps,Body Only
+2250,Holman Shoulder Tap to Hand Tap,Abdominals,Body Only
+2251,Holman Towel Right Side Squat,Quadriceps,Other
+2252,Holman Towel Left Side Squat,Quadriceps,Body Only
+2253,Holman Jump-Out to Push-Up,Chest,
+2254,Holman Towel Reverse Plank Jack,Abdominals,Body Only
+2255,Holman Side-to-Side Twist,Abdominals,Body Only
+2256,Holman Squat Thrust to Alternating Front Raise,Quadriceps,Dumbbell
+2257,Holman Push-Up to Belly Touch,Chest,Dumbbell
+2258,Holman Crab Kick with Hop,Abdominals,Body Only
+2259,Holman Crab Reach to Crab Kick,Abdominals,Body Only
+2260,Holman Wide Squat Side-to-Side Obliques,Abdominals,Body Only
+2261,Holman Alternating Lunge Jump,Quadriceps,Body Only
+2262,Holman Side Plank Crunch,Abdominals,Body Only
+2263,Holman Lunge Jump to Squat Jump,Quadriceps,Body Only
+2264,DeLeon Step-Up Heel Drop,Abdominals,
+2265,AH Stair Burpee,Quadriceps,
+2266,AH Skip Jump,Quadriceps,
+2267,AH Stair Grapevine,Abdominals,
+2268,AH Single-Leg Hop,Quadriceps,
+2269,AH Bounding Sprint,Quadriceps,
+2270,Holman Right Side-to-Left Side Donkey Kick,Abdominals,
+2271,Holman Left Straight Plank to Kick-Up,Abdominals,
+2272,Holman Towel Reverse Plank Heel Pull-in,Abdominals,Other
+2273,Holman Burpee with Belly Touch,Quadriceps,Body Only
+2274,Abel Negative Hamstring Curl,Abdominals,
+2275,Hathaway Frog Squat,Abdominals,
+2276,Hathaway Bear Crawl,Abdominals,
+2277,Hathaway Heel Tap,Abdominals,
+2278,Hathaway Shoot Through,Abdominals,
+2279,Hathaway Single-Leg Burpee,Abdominals,
+2280,Hathaway Burpee,Abdominals,
+2281,Total Fitness Ab Tuck,Abdominals,Body Only
+2282,Active hang from bar,Abdominals,Body Only
+2283,Total Fitness Bear Crawl,Glutes,Body Only
+2284,Bootstrapper squat,Quadriceps,Body Only
+2285,Total Fitness Broad Jump,Quadriceps,Body Only
+2286,Cat-cow,Abdominals,Body Only
+2287,Total Fitness Close-Grip Dumbbell Press,Triceps,Dumbbell
+2288,Crab walk,Abdominals,Body Only
+2289,Total Fitness Dumbbell Isometric Row Hold,Lats,Dumbbell
+2290,Dumbbell kickstand deadlift,Lower Back,Dumbbell
+2291,Dumbbell racked reverse lunge,Quadriceps,Dumbbell
+2292,Dumbbell renegade row,Lats,Dumbbell
+2293,Total Fitness Dumbbell Reverse Lunge,Quadriceps,Dumbbell
+2294,Dumbbell row to triceps kick-back,Triceps,Dumbbell
+2295,Single-arm dumbbell floor press,Chest,Dumbbell
+2296,Single-arm dumbbell snatch-,Quadriceps,Dumbbell
+2297,Total Fitness Dumbbell Step-Up,Quadriceps,Dumbbell
+2298,Lunge with overhead reach,Abdominals,Body Only
+2299,Total Fitness Hamstring Slide,Hamstrings,Body Only
+2300,Hang from bar,Abdominals,Body Only
+2301,Total Fitness Hollow Hold,Abdominals,Body Only
+2302,Total Fitness Hollow Rock,Abdominals,
+2303,Jump to pull-up,Lats,Body Only
+2304,Total Fitness Lateral Lunge,Quadriceps,Body Only
+2305,Lateral shuffle,Quadriceps,Body Only
+2306,Pigeon stretch,Glutes,Body Only
+2307,Total Fitness Plyo Push-Up,Chest,Body Only
+2308,Rolling triceps press,Triceps,Dumbbell
+2309,Scapular push-up,Chest,Body Only
+2310,Bent-over scapular slide,Lats,Body Only
+2311,Total Fitness Side Plank,Abdominals,Body Only
+2312,Iron cross stretch,Lats,Body Only
+2313,Side plank pulse,Abdominals,Body Only
+2314,Single-arm dumbbell front squat,Quadriceps,Dumbbell
+2315,Total Fitness Skip,Quadriceps,Body Only
+2316,Total Fitness Spider Crawl (Unweighted),Abdominals,Body Only
+2317,Total Fitness Spider Lunge,Quadriceps,Body Only
+2318,Spider lunge stretch,Quadriceps,Body Only
+2319,Spider lunge with T-rotation,Quadriceps,Body Only
+2320,Total Fitness Standing Lat Stretch,Lats,Body Only
+2321,Standing quad stretch,Quadriceps,Body Only
+2322,Total Fitness V-Up,Abdominals,Body Only
+2323,Vertical jump,Quadriceps,Body Only
+2324,Standing dumbbell knee crunch,Lats,Other
+2325,Total Fitness Weighted Push-Up,Chest,Dumbbell
+2326,Kaged Seated Overhead Dumbbell Extension,Abdominals,
+2327,King Maker Pull-Up,Lats,Body Only
+2328,King Maker Push-up,Chest,Body Only
+2329,Warrior push-up,Chest,Body Only
+2330,King Maker Burpee,Quadriceps,Body Only
+2331,King Maker Barbell Bench Press,Chest,Barbell
+2332,King Maker Incline Barbell Bench Press,Chest,Barbell
+2333,King Maker Barbell Back Squat,Quadriceps,Barbell
+2334,King Maker Barbell Deadlift,Quadriceps,Barbell
+2335,Dumbbell goblet squat-,Quadriceps,Kettlebells
+2336,King Maker Dumbbell Romanian Deadlift,Lower Back,Dumbbells
+2337,King Maker Standing Dumbbell Shoulder Press,Chest,Dumbbell
+2338,King Maker Weighted Jump Squat,Quadriceps,Dumbbell
+2339,King Maker Lat Pull-Down,Lats,Machine
+2340,King Maker Leg Press,Quadriceps,Machine
+2341,King Maker Resistance Band Leg Press,Abdominals,
+2342,Single-leg leg press,Quadriceps,Machine
+2343,King Maker Hack Squat,Quadriceps,Machine
+2344,Barbell deadlift bent-over row complex,Middle Back,Barbell
+2345,King Maker Explosive High Jump,Quadriceps,Body Only
+2346,Jay Dumbbell Push-Up Pull-Through,Abdominals,
+2347,Jay Hollow Body Crunch,Abdominals,
+2348,Jay Dumbbell Thruster to Reverse Lunge,Abdominals,
+2349,Jay Broad Jump to High Knees,Abdominals,
+2350,Jay Hollow Body Pull-Over,Abdominals,
+2351,Jay Burpee Tuck Jump,Abdominals,
+2352,Muscle Beach Skip,Quadriceps,Body Only
+2353,Muscle Beach Broad Jump,Quadriceps,Body Only
+2354,Muscle Beach Sprint,Quadriceps,Body Only
+2355,Muscle Beach Front Kick,Quadriceps,Body Only
+2356,Muscle Beach Side Kick,Quadriceps,Body Only
+2357,Muscle Beach Spin Kick,Quadriceps,Body Only
+2358,Muscle Beach Freestyle Kick,Quadriceps,Body Only
+2359,Taylor Roll-Over Push-Up,Chest,Body Only
+2360,Taylor Val Slide Push-Up/Fly Combo,Chest,Other
+2361,Taylor One-Arm Push-Up Slow Negative,Chest,Body Only
+2362,Taylor Band-Assisted One-Arm Push-Up,Chest,Bands
+2363,Taylor Exercise Ball Stir-The-Pot,Abdominals,Exercise Ball
+2364,30 Chest Machine Flat Chest Press,Chest,Machine
+2365,Smith machine push-up,Chest,Machine
+2366,30 Chest Smith Machine Incline Chest Press,Chest,Machine
+2367,30 Chest Smith Machine Chest Press,Chest,Machine
+2368,30 Chest Push-Up To Isometric Hold,Chest,Body Only
+2369,30 Chest Push-Up,Chest,Body Only
+2370,30 Chest Machine Incline Chest Press,Chest,Machine
+2371,30 Chest Machine Fly,Chest,Machine
+2372,30 Chest Low-To-High Cable Fly,Chest,Cable
+2373,30 Chest Incline Dumbbell Fly,Chest,Dumbbell
+2374,30 Chest Incline Dumbbell Bench Press,Chest,Dumbbell
+2375,30 Chest Incline Cable Fly,Chest,Cable
+2376,30 Chest Incline Cable Chest Press,Chest,Cable
+2377,30 Chest Incline Barbell Bench Press,Chest,Barbell
+2378,30 Chest High-To-Low Cable Press,Chest,Cable
+2379,30 Chest High-To-Low Cable Fly,Chest,Cable
+2380,30 Chest Dumbbells-Together Press,Chest,Dumbbell
+2381,30 Chest Dumbbells-Together Incline Bench Press,Chest,Dumbbell
+2382,30 Chest Dumbbell Fly,Chest,Dumbbell
+2383,30 Chest Dumbbell Bench Press,Chest,Dumbbell
+2384,30 Chest Bench Push-Up,Chest,Body Only
+2385,30 Chest Barbell Bench Press,Chest,Barbell
+2386,30 Chest 30-Degree Incline Smith Machine Press,Chest,Machine
+2387,30 Chest 30-Degree Incline Dumbbell Press,Chest,Barbell
+2388,30 Chest 30-Degree Incline Dumbbell Fly,Chest,Dumbbell
+2389,30 Chest Shoulder-Height Cable Fly,Chest,Cable
+2390,MetaBurn 3-Phase Push-Up,Chest,Body Only
+2391,3D dumbbell lunge,Quadriceps,Dumbbell
+2392,MetaBurn Alternating Curtsy Lunge To Squat,Quadriceps,Body Only
+2393,MetaBurn Alternating Curtsy Lunge With High Knee,Quadriceps,Body Only
+2394,MetaBurn Alternating Diagonal Sprawl,Quadriceps,Body Only
+2395,MetaBurn Alternating Dumbbell Sit-Through,Abdominals,Dumbbell
+2396,MetaBurn Alternating Knee-to-Elbow Mountain Climber,Abdominals,Body Only
+2397,MetaBurn Alternating Lateral Sprawl,Quadriceps,Body Only
+2398,MetaBurn Alternating Plank Row With Dumbbell Pull-Through,Abdominals,Dumbbell
+2399,MetaBurn Alternating Plank Row With Push-Up,Abdominals,Dumbbell
+2400,Alternating sit-through with crunch-,Abdominals,Body Only
+2401,MetaBurn Alternating Superman,Lower Back,Body Only
+2402,MetaBurn Alternating Toe-Touch,Abdominals,Body Only
+2403,MetaBurn Bent-Over Renegade Row,Middle Back,Dumbbell
+2404,MetaBurn Bent-Over Row to Rear-Delt Raise,Lats,Dumbbell
+2405,MetaBurn Curtsy Lunge,Quadriceps,Body Only
+2406,MetaBurn Dumbbell Burpee,Quadriceps,Dumbbell
+2407,MetaBurn Dumbbell Drag Curl,Biceps,Dumbbell
+2408,Dumbbell jump squat with rotation,Quadriceps,Dumbbell
+2409,MetaBurn Dumbbell Russian Twist,Abdominals,Dumbbell
+2410,MetaBurn Dumbbell Toe-Touch,Abdominals,Dumbbell
+2411,MetaBurn Dumbbell Wide Squat to Rack,Quadriceps,Dumbbell
+2412,MetaBurn Fast Feet To Push-Up,Chest,Body Only
+2413,MetaBurn Frogger,Quadriceps,Body Only
+2414,MetaBurn Groiner,Abductors,Body Only
+2415,MetaBurn Hammer Curl to Overhead Press,Biceps,Dumbbell
+2416,MetaBurn High Knee Rotation,Quadriceps,Body Only
+2417,MetaBurn Janda Sit-Up,Abdominals,Body Only
+2418,MetaBurn Judo Push-Up To Pike Push-Up,Chest,Body Only
+2419,MetaBurn Oblique Roll Crunch,Abdominals,Body Only
+2420,MetaBurn Pike Push-Up,Chest,Body Only
+2421,MetaBurn Plank Jack,Abdominals,Body Only
+2422,MetaBurn Plank To Alternating Row,Abdominals,Dumbbell
+2423,MetaBurn Plank To Alternating Side Plank,Abdominals,Body Only
+2424,MetaBurn Plank Up-Down,Abdominals,Body Only
+2425,MetaBurn Plank Wiper,Abdominals,Body Only
+2426,MetaBurn Plank With Alternating Toe-Touch,Abdominals,Body Only
+2427,MetaBurn Plyo Push-Up,Abdominals,Body Only
+2428,MetaBurn Psycho Crunch,Abdominals,Body Only
+2429,MetaBurn Push-Up To Frogger,Chest,Body Only
+2430,MetaBurn Push-Up With Hand Side-Step,Chest,Body Only
+2431,MetaBurn Push-Up With Hand-Up Rotation,Chest,Body Only
+2432,MetaBurn Reverse Lunge To High Pull,Quadriceps,Dumbbell
+2433,MetaBurn Reverse Lunge With Overhead Raise,Quadriceps,Dumbbell
+2434,MetaBurn Scapular Retraction Plank,Abdominals,Body Only
+2435,MetaBurn Scapular Retraction Plank Hold,Abdominals,Body Only
+2436,MetaBurn Scorpion,Abdominals,Body Only
+2437,MetaBurn Side Crawler,Abdominals,Body Only
+2438,MetaBurn Side Plank Oblique Crunch,Abdominals,Body Only
+2439,MetaBurn Side-To-Side Lunge,Quadriceps,Body Only
+2440,Single-leg stiff-legged deadlift to row,Lower Back,Dumbbell
+2441,MetaBurn Sit-Through,Abdominals,Body Only
+2442,MetaBurn Sit-Up To V-Up,Abdominals,Body Only
+2443,MetaBurn Sit-Up With Rotation,Abdominals,Body Only
+2444,MetaBurn Skullcrusher to Ab Crunch,Triceps,Dumbbell
+2445,MetaBurn Sphinx Push-Up,Chest,Body Only
+2446,MetaBurn Spiderman Push-Up,Chest,Body Only
+2447,MetaBurn Split-Leg Crunch,Abdominals,Body Only
+2448,MetaBurn Squat to Triceps Extension,Quadriceps,Dumbbell
+2449,Standing dumbbell knee crunch-,Abdominals,Dumbbell
+2450,MetaBurn Star Jump,Quadriceps,Body Only
+2451,MetaBurn Static Legs V-Up,Abdominals,
+2452,MetaBurn Swimmer,Lower Back,Body Only
+2453,MetaBurn Tabletop Hip Thrust,Abdominals,Body Only
+2454,MetaBurn Tabletop With Russian Kick,Abdominals,Body Only
+2455,MetaBurn Toe Driver Abs,Abdominals,Body Only
+2456,MetaBurn Tuck Jump With Knee Slap,Quadriceps,Body Only
+2457,MetaBurn-V-Up,Abdominals,Body Only
+2458,X-body V-up,Abdominals,Body Only
+2459,MetaBurn Biceps Curl To Lateral Raise,Biceps,Dumbbell
+2460,MetaBurn Lateral Bounding Hop,Quadriceps,Body Only
+2461,MetaBurn Swivel Crunch,Abdominals,Body Only
+2462,MetaBurn Double Lunge,Quadriceps,Body Only
+2463,MetaBurn Plank With Dumbbell Rotation,Abdominals,Dumbbell
+2464,30 Day Back Barbell Rack Pull,Lower Back,Barbell
+2465,Robertson Sprinter Step-Up,Quadriceps,Body Only
+2466,Roberston Push-up to Down Dog,Chest,Body Only
+2467,Robertson Core-Engaged Dead Bug,Abdominals,Body Only
+2468,Robertson Half-Kneeling Landmine Press,Lats,Machine
+2469,Robertson Kettlebell Jump,Quadriceps,Kettlebells
+2470,30 Back Band-Assisted Pull-Up,Middle Back,Bands
+2471,30 Back Barbell Deadlift,Middle Back,Barbell
+2472,30 Back Bent-Over Barbell Row,Middle Back,Barbell
+2473,30 Back Bent-Over Dumbbell Row,Middle Back,Dumbbell
+2474,30 Back Close-Grip Seated Cable Row,Middle Back,Cable
+2475,30 Back Dumbbell Pull-Over,Middle Back,Dumbbell
+2476,30 Back Incline Dumbbell Row,Middle Back,Dumbbell
+2477,30 Back Incline Face-Up Cable Pull-Down,Middle Back,Cable
+2478,30 Back Kneeling High Cable Pull-Down,Middle Back,Cable
+2479,30 Back Leaning V-Bar Pull-Down,Middle Back,Cable
+2480,30 Back Machine Seated Row,Middle Back,Machine
+2481,30 Back Neutral-Grip Pull-Down,Middle Back,Body Only
+2482,30 Back Plate Hyperextension,Middle Back,Other
+2483,30 Back Pull-Up,Middle Back,Body Only
+2484,30 Back Reverse-Grip Band-Assisted Pull-Up,Middle Back,Bands
+2485,30 Back Reverse-Grip Pull-Down,Middle Back,Cable
+2486,30 Back Reverse-Grip Pull-Up,Middle Back,Body Only
+2487,30 Back Single-Arm Dumbbell Row,Middle Back,Dumbbell
+2488,30 Back Single-Arm Dumbbell Swing Row,Middle Back,Dumbbell
+2489,30 Back Smith Machine Push-Up,Middle Back,Machine
+2490,30 Back Standing Low Cable Bar Row,Middle Back,Cable
+2491,30 Back Standing Low Cable Rope Row,Middle Back,Cable
+2492,30 Back Straight-Arm Bar Pull-Down,Middle Back,Cable
+2493,30 Back Straight-Arm Rope Pull-Down,Middle Back,Cable
+2494,30 Back Suspension Inverted Row,Middle Back,
+2495,30 Back T-Bar Row,Middle Back,Barbell
+2496,30 Back Underhand Bent-Over Barbell Row,Middle Back,Barbell
+2497,30 Back V-Bar Pull-Down,Middle Back,
+2498,30 Back Weighted Pull-Up,Middle Back,
+2499,30 Back Wide-Grip Behind-The-Head Pull-Down,Middle Back,Cable
+2500,30 Back Wide-Grip Pull-Down,Middle Back,Cable
+2501,30 back Wide-Grip Seated Cable Row,Middle Back,Cable
+2502,FYR2 Air Ball,Abdominals,Exercise Ball
+2503,FYR2 Alternating Dumbbell Curl,Biceps,Dumbbell
+2504,FYR2 Alternating Kettlebell Snatch,Lats,Kettlebells
+2505,FYR2 Alternating Kettlebell Squat Clean,Quadriceps,Kettlebells
+2506,FYR2 Alternating Kettlebell Swing,Lats,Kettlebells
+2507,FYR2 American Kettlebell Swing,Lats,Kettlebells
+2508,FYR2 Banded Double-Kettlebell Squat Pulse,Quadriceps,Kettlebells
+2509,FYR2 Banded Frog Pump,Abdominals,Bands
+2510,FYR2 Banded Glute Bridge,Glutes,Bands
+2511,FYR2 Bent-Over Medicine Ball Slam,Lats,Medicine Ball
+2512,FYR2 Bent-Over Reverse Fly,Lats,Dumbbell
+2513,FYR2 Dagger-Grip Double-Kettlebell Gorilla Row,Middle Back,Kettlebells
+2514,FYR2 Double-Kettlebell Ballin' Lunge,Quadriceps,Kettlebells
+2515,FYR2 Double-Kettlebell Front Rack Lunge,Quadriceps,Kettlebells
+2516,FYR2 Double-Kettlebell Front Squat,Quadriceps,Kettlebells
+2517,FYR2 Double-Kettlebell Ski,Abdominals,Kettlebells
+2518,FYR2 Double-Kettlebell Standing Clean,Lats,Kettlebells
+2519,FYR2 Double-Under,Abdominals,Body Only
+2520,FYR2 Dumbbell Crab Reach,Abdominals,Dumbbell
+2521,FYR2 Dumbbell Deadlift,Lower Back,Dumbbell
+2522,FYR2 Dumbbell Deadlift to Dumbbell Upright Row,Lower Back,Dumbbell
+2523,FYR2 Dumbbell Hip Thrust,Glutes,Dumbbell
+2524,FYR2 Dumbbell Man-Maker,Abdominals,Dumbbell
+2525,FYR2 Dumbbell Sit-Up Reach,Abdominals,Dumbbell
+2526,FYR2 Explosive Kettlebell Jump Squat,Quadriceps,Kettlebells
+2527,FYR2 Fire Feet with Burpee Tuck Jump Drill,Abdominals,Body Only
+2528,FYR2 Flutter Kick,Abdominals,Body Only
+2529,FYR2 Front Kick-Through,Quadriceps,Body Only
+2530,FYR2 Glute Bridge Dumbbell Floor Press,Glutes,Dumbbell
+2531,FYR2 Kettlebell Hike,Abdominals,Kettlebells
+2532,FYR2 Half-Moon,Abdominals,Body Only
+2533,FYR2 Kettlebell Cross-Body Catch,Abdominals,Kettlebells
+2534,FYR2 Kettlebell Duck Walk,Abdominals,Kettlebells
+2535,FYR2 Kettlebell Get-Up Reach,Abdominals,Kettlebells
+2536,FYR2 Kettlebell Goblet Squat,Quadriceps,Kettlebells
+2537,FYR2 Kettlebell Good Morning,Lower Back,Kettlebells
+2538,FYR2 Kettlebell Juggle,Abdominals,Kettlebells
+2539,FYR2 Kettlebell Reverse Lunge Switch Grip,Quadriceps,Kettlebells
+2540,FYR2 Kettlebell Reverse Lunge to Kneeling Press,Quadriceps,Kettlebells
+2541,FYR2 Kettlebell Romanian Deadlift,Lower Back,Kettlebells
+2542,FYR2 Kettlebell Staggered-Stance Deadlift,Lower Back,Kettlebells
+2543,FYR2 Kettlebell Sumo Squat Pulse,Quadriceps,Kettlebells
+2544,FYR2 Kettlebell Swing High Pull,Lats,Kettlebells
+2545,FYR2 Kettlebell Swing-Clean-Press Combo,Lats,Kettlebells
+2546,FYR2 Kettlebell Swing-Clean-Press-Row Combo,Lats,Kettlebells
+2547,FYR2 Lateral Band Walk,Quadriceps,Bands
+2548,FYR2 Leopard Crawl,Abdominals,Body Only
+2549,Levitating side kick-through,Glutes,Body Only
+2550,FYR2 Loaded Beast Sprawl,Abdominals,Dumbbell
+2551,FYR2 Loaded to Unloaded Beast,Abdominals,Dumbbell
+2552,Lunge high-knee clap,Quadriceps,Body Only
+2553,FYR2 Medicine Ball Complex,Abdominals,Medicine Ball
+2554,FYR2 Medicine Ball Fire-Feet Drill,Abdominals,Medicine Ball
+2555,FYR2 Medicine Ball Knees-to-Chest,Abdominals,Medicine Ball
+2556,FYR2 Medicine Ball Mountain Climber,Abdominals,Medicine Ball
+2557,FYR2 Monster Band Face-Pull Hold,Lats,Bands
+2558,FYR2 Monster Banded Good Morning,Lower Back,Bands
+2559,FYR2 Plank Alternating Front Step,Abdominals,Body Only
+2560,FYR2 Plyo Split Squat,Quadriceps,Body Only
+2561,FYR2 Pulse Biceps Curl,Biceps,Dumbbell
+2562,FYR2 Push-Up to Kettlebell Hike Combo,Chest,Kettlebells
+2563,FYR2 Reverse Burpee,Quadriceps,Body Only
+2564,FYR2 Reverse Burpee to Regular Burpee,Quadriceps,Body Only
+2565,FYR2 Reverse Burpee Tuck Jump,Quadriceps,Body Only
+2566,FYR2 Reverse Lunge to Single-Leg Kettlebell Deadlift,Quadriceps,Kettlebells
+2567,FYR2 Seesaw Dumbbell Biceps Curl,Biceps,Dumbbell
+2568,FYR2 Double-Kettlebell Swing Clean,Middle Back,Kettlebells
+2569,FYR2 Shoulder Tap,Abdominals,Body Only
+2570,FYR2 Single-Arm Kettlebell Clean,Lats,Kettlebells
+2571,Single-arm kettlebell row-,Middle Back,Kettlebells
+2572,FYR2 Sprawl Over Kettlebell,Triceps,Kettlebells
+2573,FYR2 Single-Arm Kettlebell Swing,Lats,Kettlebells
+2574,FYR2 Single-Dumbbell Biceps Curl,Biceps,Dumbbell
+2575,FYR2 Single-Dumbbell Push-Up,Chest,Dumbbell
+2576,FYR2 Sprawlee,Quadriceps,Body Only
+2577,FYR2 Squat Hold,Quadriceps,Body Only
+2578,FYR2 Squat Jump,Quadriceps,Body Only
+2579,FYR2 Squat Pulse,Quadriceps,Body Only
+2580,FYR2 Standing Banded Leg Abduction,Abductors,Bands
+2581,FYR2 Superhero Lunge Squat Clean and Press,Quadriceps,
+2582,FYR2 Triceps Push-Up,Triceps,Body Only
+2583,FYR2 Dumbbell Curl-Row Complex,Biceps,Dumbbell
+2584,FYR2 Banded Squat Hold-Pulse-Jump Complex,Quadriceps,Bands
+2585,FYR2 Ascending-Rep Swing-Squat Complex,Middle Back,Kettlebells
+2586,FYR2 Kettlebell Goblet-Squat-Deadlift Complex,Quadriceps,Kettlebells
+2587,FYR2 Squat-Clean-Alternating-Press Complex,Abdominals,Kettlebells
+2588,FYR2 Kettlebell Squat-Press-Deadlift Complex,Quadriceps,Kettlebells
+2589,FYR2 Push-Up-Breakdancer-Shoulder-Tap Complex,Chest,Body Only
+2590,FYR2 Single-Dumbbell Triceps Extension,Triceps,Dumbbell
+2591,30 Arms EZ-Bar Skullcrusher,Triceps,E-Z Curl Bar
+2592,30 Arms Cable Rope Hammer Curl,Biceps,Cable
+2593,30 Arms Weighted Triceps Dip,Triceps,Other
+2594,30 Arms Underhand Cable Straight-Bar Push-Down,Triceps,Cable
+2595,30 Arms Triceps Dip,Triceps,Body Only
+2596,30 Arms Standing Dumbbell Hammer Curl 21s,Biceps,Dumbbell
+2597,30 Arms Standing Overhand EZ-Bar Curl,Biceps,E-Z Curl Bar
+2598,30 Arms Standing Biceps Curl,Biceps,Dumbbell
+2599,30 Arms Standing Barbell Curl,Biceps,Barbell
+2600,30 Arms Standing Alternating Hammer Curl,Biceps,Dumbbell
+2601,30 Arms Standing Alternating Biceps Curl,Biceps,Dumbbell
+2602,30 Arms Squatting Cable Straight-Bar Curl,Biceps,Cable
+2603,30 Arms Single-Arm Reverse-Grip Cable Push-Down,Triceps,Cable
+2604,30 Arms Single-Arm Hammer Preacher Curl,Biceps,Dumbbell
+2605,30 Arms Single-Arm Dumbbell Preacher Curl,Biceps,Dumbbell
+2606,30 Arms Seated Dumbbell Concentration Curl,Biceps,Dumbbell
+2607,30 Arms Seated Biceps Curl,Biceps,Dumbbell
+2608,30 Arms Seated Alternating Biceps Curl,Biceps,Dumbbell
+2609,30 Arms Overhead Dumbbell Triceps Extension,Triceps,Dumbbell
+2610,30 Arms Machine Triceps Dip,Triceps,Machine
+2611,30 Arms Incline Hammer Curl,Biceps,Dumbbell
+2612,30 Arms Incline Dumbbell Triceps Extension,Biceps,Dumbbell
+2613,30 Arms Incline Biceps Curl,Biceps,Barbell
+2614,30 Arms High Cable Curl,Biceps,Cable
+2615,30 Arms Hammer Curl,Biceps,Dumbbell
+2616,30 Arms EZ-Bar Spider Curl,Biceps,E-Z Curl Bar
+2617,30 Arms EZ-Bar Preacher Curl,Biceps,E-Z Curl Bar
+2618,30 Arms Dumbbell Skullcrusher,Triceps,Dumbbell
+2619,30 Arms Dumbbell Kick-Back,Triceps,Dumbbell
+2620,30 Arms Close-Grip Push-Up,Triceps,Body Only
+2621,30 Arms Close-Grip Bench Press,Triceps,Barbell
+2622,30 Arms Cable V-Bar Push-Down,Triceps,Cable
+2623,30 Arms Cable Straight-Bar Push-Down,Triceps,Cable
+2624,30 Arms Cable Straight-Bar Curl,Biceps,Cable
+2625,30 Arms Cable Rope Push-Down,Triceps,Cable
+2626,30 Arms Cable Rope Overhead Triceps Extension,Triceps,Cable
+2627,30 Arms Cable Concentration Curl,Biceps,Cable
+2628,BFR underhand straight-bar push-down,Triceps,Cable
+2629,BFR overhand straight-bar push-down,Triceps,Cable
+2630,30 Arms BFR Machine Preacher Curl,Biceps,Machine
+2631,30 Arms BFR High Cable Curl,Biceps,Cable
+2632,30 Arms BFR Dumbbell Kick-Back,Triceps,Dumbbell
+2633,30 Arms BFR Close-Grip Push-Up,Triceps,Body Only
+2634,BFR cable rope push-down,Triceps,Cable
+2635,BFR cable rope hammer curl,Biceps,Cable
+2636,30 Arms Standing EZ-Bar Curl,Biceps,E-Z Curl Bar
+2637,30 Arms Barbell Skullcrusher,Triceps,Barbell
+2638,30 Legs Barbell Back Squat,Quadriceps,Barbell
+2639,30 Legs Barbell Front Squat,Quadriceps,Barbell
+2640,30 Legs Barbell Stiff-Legged Deadlift,Hamstrings,
+2641,30 Legs Dumbbell Goblet Squat,Quadriceps,Dumbbell
+2642,30 Legs Dumbbell Squat,Quadriceps,Dumbbell
+2643,30 Legs Dumbbell Stiff-Legged Deadlift,Hamstrings,Dumbbell
+2644,30 Legs Dumbbell Walking Lunge,Hamstrings,
+2645,30 Legs Feet-High Leg Press,Quadriceps,Machine
+2646,30 Legs Glute-Ham Raise,Glutes,Machine
+2647,30 Legs Hip Thrust,Glutes,Body Only
+2648,30 Legs Leg Extension,Hamstrings,Machine
+2649,30 Legs Leg Press,Quadriceps,Machine
+2650,30 Legs Leg Press Calf Raise,Quadriceps,Machine
+2651,30 Legs Lying Leg Curl,Quadriceps,Machine
+2652,30 Legs Machine Hack Squat,Quadriceps,Machine
+2653,30 Legs Seated Leg Curl,Hamstrings,Machine
+2654,30 Legs Single-Leg Leg Extension,Quadriceps,Machine
+2655,30 Legs Single-Leg Leg Press,Quadriceps,Machine
+2656,30 Legs Single-Leg Lying Leg Curl,Quadriceps,Machine
+2657,30 Legs Smith Machine Split Squat,Quadriceps,Machine
+2658,30 Legs Smith Machine Squat,Quadriceps,Machine
+2659,30 Legs Sumo Deadlift,Hamstrings,Barbell
+2660,30 Legs Walking Lunge,Hamstrings,Body Only
+2661,ACFT Hand-release push-up,Chest,Body Only
+2662,Hand shift plank,Abdominals,Body Only
+2663,Side-lying leg adduction scissor,Adductors,Body Only
+2664,1.5-rep push-up,Chest,Body Only
+2665,ACFT Triple-clap push-up,Chest,Body Only
+2666,Sprinter burpee,Quadriceps,Body Only
+2667,ACFT Superman push-up,Chest,Body Only
+2668,Cross-body plank march,Abdominals,Body Only
+2669,Incline band bench press,Chest,Bands
+2670,Band archer pull,Abdominals,
+2671,Spoto press,Chest,Barbell
+2672,Band split squat,Quadriceps,Bands
+2673,Band front squat,Quadriceps,Bands
+2674,Bent-knee Copenhagen hip adduction,Abdominals,Body Only
+2675,Dumbbell single-leg hip thrust,Glutes,Body Only
+2676,Copenhagen plank,Abdominals,Body Only
+2677,Dumbbell saw triceps skullcrusher,Triceps,Dumbbell
+2678,Squat hold with band pull-apart,Quadriceps,Bands
+2679,Band push-up,Chest,Bands
+2680,Band overhead triceps extension,Triceps,Bands
+2681,Feet-elevated plank on ball,Abdominals,Exercise Ball
+2682,Feet-elevated push-up on ball,Chest,Exercise Ball
+2683,Cross-over push-up,Chest,Body Only
+2684,Dumbbell step-down reverse lunge,Quadriceps,Dumbbell
+2685,Band straight-arm pull-down,Triceps,Bands
+2686,Band bent-over row,Middle Back,Bands
+2687,ACFT Low-handle trap bar deadlift,Lower Back,Other
+2688,ACFT Medicine ball overhead power throw,Middle Back,Medicine Ball
+2689,ACFT Hanging leg tuck,Abdominals,Body Only
+2690,ACFT Sprint-drag-carry,Quadriceps,Other
+2691,Alternating hanging knee raise,Abdominals,Body Only
+2692,Shuttle run training,Quadriceps,Body Only
+2693,Single-Arm Cable Outward-Facing Biceps Curl,Abdominals,Cable
+2694,Cable 90-Degree External Rotation,Abdominals,
+2695,Cable Outward-Facing Biceps Curl,Abdominals,
